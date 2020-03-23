@@ -233,6 +233,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-03-23 03:56:19 +0000"
@@ -281,6 +287,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2020-03-23 05:46:23 +0000"
@@ -296,6 +308,12 @@
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2020-03-23 02:53:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2020-03-23 17:32:58 +0000"
     },
     "done": true
   },
@@ -340,9 +358,11 @@
       "cooked_porkchop": "2020-03-23 02:53:50 +0000",
       "sweet_berries": "2020-03-23 05:32:09 +0000",
       "cooked_beef": "2020-03-23 02:35:42 +0000",
+      "baked_potato": "2020-03-23 16:19:08 +0000",
       "apple": "2020-03-23 02:54:50 +0000",
       "potato": "2020-03-23 05:30:02 +0000",
-      "cooked_chicken": "2020-03-23 04:56:31 +0000"
+      "cooked_chicken": "2020-03-23 04:56:31 +0000",
+      "carrot": "2020-03-23 16:33:55 +0000"
     },
     "done": false
   },
@@ -580,6 +600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_stone": {
     "criteria": {
       "get_stone": "2020-03-23 01:30:39 +0000"
@@ -607,6 +633,12 @@
   "minecraft:recipes/decorations/gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-23 05:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
     },
     "done": true
   },
@@ -838,6 +870,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-23 05:32:14 +0000"
@@ -857,6 +901,12 @@
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2020-03-23 03:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
     },
     "done": true
   },
@@ -998,6 +1048,12 @@
     },
     "done": true
   },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2020-03-23 02:30:52 +0000"
@@ -1007,6 +1063,18 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-23 03:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2020-03-23 17:25:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
     },
     "done": true
   },
@@ -1163,6 +1231,12 @@
   "minecraft:recipes/building_blocks/stripped_dark_oak_wood": {
     "criteria": {
       "has_log": "2020-03-23 04:01:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
     },
     "done": true
   },
@@ -1702,6 +1776,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2020-03-23 01:25:11 +0000"
@@ -1729,6 +1809,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-23 05:32:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis": "2020-03-23 17:25:46 +0000"
     },
     "done": true
   },
@@ -1801,6 +1887,12 @@
   "minecraft:recipes/decorations/dark_oak_fence": {
     "criteria": {
       "has_planks": "2020-03-23 03:56:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2020-03-23 17:21:49 +0000"
     },
     "done": true
   },

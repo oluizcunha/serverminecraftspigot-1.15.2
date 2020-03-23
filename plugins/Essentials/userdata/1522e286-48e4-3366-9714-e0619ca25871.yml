@@ -1,0 +1,19 @@
+lastAccountName: '001'
+timestamps:
+  login: 1584983662893
+  logout: 1584983938369
+ipAddress: 187.123.1.223
+lastlocation:
+  world: world
+  x: -524.5
+  y: 63.0
+  z: 564.5
+  yaw: 4.194507
+  pitch: 0.0
+logoutlocation:
+  world: world
+  x: -533.2698545037739
+  y: 64.5
+  z: 504.7395822794759
+  yaw: -175.20003
+  pitch: 10.800006
