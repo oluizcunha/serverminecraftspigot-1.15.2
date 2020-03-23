@@ -1,0 +1,28 @@
+lastAccountName: Luunnaaa
+timestamps:
+  login: 1585003549960
+  lastteleport: 1585003821462
+  logout: 1585003832571
+ipAddress: 179.95.229.161
+lastlocation:
+  world: world
+  x: -471.33538680798137
+  y: 71.0
+  z: 131.7960937144661
+  yaw: -169.07176
+  pitch: 8.550045
+logoutlocation:
+  world: world
+  x: -554.696096892534
+  y: 111.5625
+  z: 345.14751496096
+  yaw: 6.7298584
+  pitch: 7.500019
+homes:
+  home:
+    world: world
+    x: -554.5
+    y: 111.6875
+    z: 344.5
+    yaw: 184.03003
+    pitch: 0.0

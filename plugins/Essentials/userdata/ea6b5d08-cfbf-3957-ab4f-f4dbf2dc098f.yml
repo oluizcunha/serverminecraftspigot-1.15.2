@@ -1,12 +1,28 @@
 lastAccountName: HiagoTI
 timestamps:
-  login: 1584983180543
-  logout: 1584985274567
+  login: 1584995714195
+  logout: 1585003659573
+  lastteleport: 1585003657905
 ipAddress: 179.217.112.237
 logoutlocation:
   world: world
-  x: -643.9078006034482
-  y: 42.0
-  z: 317.4726604528275
-  yaw: -54.791992
-  pitch: 30.451223
+  x: -554.5
+  y: 102.0
+  z: 350.5
+  yaw: -94.049225
+  pitch: 11.700013
+lastlocation:
+  world: world
+  x: -528.67582591301
+  y: 65.0
+  z: 465.3189754785958
+  yaw: 110.09988
+  pitch: 27.150143
+homes:
+  home:
+    world: world
+    x: -554.9761908769809
+    y: 102.0
+    z: 350.61595856665923
+    yaw: -94.049225
+    pitch: 11.700013

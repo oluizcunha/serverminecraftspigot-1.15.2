@@ -1,19 +1,29 @@
 lastAccountName: scardrain
 timestamps:
-  login: 1584982760879
-  logout: 1584985272870
+  login: 1584995668971
+  logout: 1584995053379
+  lastteleport: 1585004388800
 ipAddress: 187.123.3.10
 lastlocation:
   world: world
-  x: -533.544291566552
-  y: 65.29673560066871
-  z: 548.842742023797
-  yaw: -1.5004516
-  pitch: 18.449938
+  x: -550.9596710090428
+  y: 88.0
+  z: 373.69999998807907
+  yaw: -81.36711
+  pitch: 24.7504
 logoutlocation:
   world: world
-  x: -563.6571493907859
-  y: 107.0
-  z: 378.30000001192093
-  yaw: -7.5388184
-  pitch: 12.749873
+  x: -864.5334740514699
+  y: 74.0
+  z: -662.3503688325483
+  yaw: 13.206207
+  pitch: 18.450014
+homes:
+  home:
+    world: world
+    x: -560.3893471135907
+    y: 101.5
+    z: 383.57072185833647
+    yaw: 355.5083
+    pitch: 6.149901
+afk: false
