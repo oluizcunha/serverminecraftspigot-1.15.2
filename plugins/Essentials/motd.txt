@@ -1,4 +1,4 @@
-&6Welcome, {PLAYER}&6!
-&6Type &c/help&6 for a list of commands.
-&6Type &c/list&6 to see who else is online.
-&6Players online:&c {ONLINE} &6- World time:&c {WORLDTIME12}
+&1&lBem Vindo, {PLAYER}&1!
+&1Digite &b/help&1 para ver a lista de comandos.
+&1Trojanos online:&b {ONLINE} 
+&1 Hora do jogo:&b {WORLDTIME12}
