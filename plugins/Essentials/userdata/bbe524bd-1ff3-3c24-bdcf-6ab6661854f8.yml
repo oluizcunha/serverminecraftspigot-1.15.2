@@ -1,23 +1,23 @@
 lastAccountName: Luunnaaa
 timestamps:
-  login: 1585003549960
-  lastteleport: 1585003821462
-  logout: 1585003832571
+  login: 1585017449054
+  lastteleport: 1585021638627
+  logout: 1585021875121
 ipAddress: 179.95.229.161
 lastlocation:
-  world: world
-  x: -471.33538680798137
-  y: 71.0
-  z: 131.7960937144661
-  yaw: -169.07176
-  pitch: 8.550045
+  world: world_nether
+  x: 467.6908808539319
+  y: 67.0
+  z: 667.0588597760882
+  yaw: 261.26288
+  pitch: 2.6998827
 logoutlocation:
   world: world
-  x: -554.696096892534
-  y: 111.5625
-  z: 345.14751496096
-  yaw: 6.7298584
-  pitch: 7.500019
+  x: -551.7143861161367
+  y: 106.0
+  z: 345.7356985688385
+  yaw: -57.917233
+  pitch: 11.549743
 homes:
   home:
     world: world

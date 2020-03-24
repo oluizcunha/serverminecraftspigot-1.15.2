@@ -1,0 +1,30 @@
+lastAccountName: Beretta711
+timestamps:
+  login: 1585022048502
+  lastteleport: 1585024308432
+  kits:
+    tools: 1585018771137
+  logout: 1585024886975
+ipAddress: 187.123.1.159
+lastlocation:
+  world: world
+  x: -555.0491015507623
+  y: 112.0
+  z: 291.35402696707644
+  yaw: 63.894455
+  pitch: 20.9999
+logoutlocation:
+  world: world
+  x: -680.6586725347892
+  y: 74.0
+  z: 769.438209998533
+  yaw: 277.537
+  pitch: 37.34954
+homes:
+  home:
+    world: world
+    x: -1746.889489617185
+    y: 63.0
+    z: 276.63865747565546
+    yaw: -300.0006
+    pitch: 13.499783

@@ -1,12 +1,20 @@
 lastAccountName: PlayerNaju
 timestamps:
-  login: 1585004159408
-  lastteleport: 1585004231527
-ipAddress: 191.33.16.237
+  login: 1585014848820
+  lastteleport: 1585017320718
+  logout: 1585019179080
+ipAddress: 179.95.201.91
 lastlocation:
   world: world
-  x: -533.769799682069
-  y: 64.5
-  z: 550.6307216386516
-  yaw: -357.44482
-  pitch: 19.349968
+  x: -636.8125044289826
+  y: 109.41999998688698
+  z: 368.98823005678656
+  yaw: -84.350494
+  pitch: -24.749905
+logoutlocation:
+  world: world
+  x: -560.9889633223407
+  y: 108.0
+  z: 295.716163894358
+  yaw: -82.56353
+  pitch: 32.699776
