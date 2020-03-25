@@ -1,13 +1,13 @@
 lastAccountName: grandejogada
 timestamps:
-  login: 1585008889462
-  logout: 1585010225167
+  login: 1585103616387
+  logout: 1585114443325
 ipAddress: 187.123.0.206
 afk: false
 logoutlocation:
   world: world
-  x: -600.5117808704906
-  y: 61.0
-  z: 428.30000001192093
-  yaw: -3.266327
-  pitch: 14.700542
+  x: -582.5101704090807
+  y: 65.0
+  z: 438.38947202190565
+  yaw: 198.90979
+  pitch: 19.500237
