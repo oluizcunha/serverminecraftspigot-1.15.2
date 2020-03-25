@@ -884,3 +884,35 @@
 [13:06:27] [Server thread/INFO]: CONSOLE issued server command: /list 
 [13:06:27] [Server thread/INFO]: [0;33;22mHá [0;31;1m1[0;33;22m de um máximo de [0;31;1m50[0;33;22m jogadores online.[m
 [13:06:27] [Server thread/INFO]: [0;33;22mdefault[m: Davigugu55[m[0;37;1m[m
+[13:09:38] [Server thread/INFO]: CONSOLE issued server command: /list 
+[13:09:38] [Server thread/INFO]: [0;33;22mHá [0;31;1m1[0;33;22m de um máximo de [0;31;1m50[0;33;22m jogadores online.[m
+[13:09:38] [Server thread/INFO]: [0;33;22mdefault[m: Davigugu55[m[0;37;1m[m
+[13:21:47] [User Authenticator #62/INFO]: UUID of player SuubMatias is 4c680754-cf62-3e72-9e27-9e3240a8b098
+[13:21:47] [Server thread/INFO]: SuubMatias[/177.13.90.242:27181] logged in with entity id 458494 at ([world]-516.0758676105527, 102.0, 384.2815372455491)
+[13:22:04] [Server thread/INFO]: SuubMatias lost connection: Disconnected
+[13:22:04] [Server thread/INFO]: SuubMatias left the game
+[13:25:55] [Server thread/INFO]: CONSOLE issued server command: /list 
+[13:25:55] [Server thread/INFO]: [0;33;22mHá [0;31;1m1[0;33;22m de um máximo de [0;31;1m50[0;33;22m jogadores online.[m
+[13:25:55] [Server thread/INFO]: [0;33;22mdefault[m: Davigugu55[m[0;37;1m[m
+[13:26:28] [Server thread/INFO]: [Server] Davi, o server vai entrar em manutenção
+[13:26:57] [Server thread/INFO]: [Server] Logo retornaremos com melhorias
+[13:27:02] [Server thread/INFO]: Unknown command. Type "/help" for help.[m
+[13:27:06] [Server thread/INFO]: Stopping the server
+[13:27:06] [Server thread/INFO]: Stopping server
+[13:27:06] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
+[13:27:06] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
+[13:27:06] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
+[13:27:06] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
+[13:27:06] [Server thread/INFO]: Saving players
+[13:27:06] [Server thread/INFO]: Davigugu55 lost connection: Server closed
+[13:27:06] [Server thread/INFO]: Davigugu55 left the game
+[13:27:06] [Server thread/INFO]: Saving worlds
+[13:27:06] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[13:27:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:06] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
+[13:27:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:06] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
+[13:27:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:27:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:27:06] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:27:07] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
