@@ -1,4 +1,4 @@
-&1&lBem Vindo, {PLAYER}&1!
-&1Digite &b/help&1 para ver a lista de comandos.
+&1&lBem Vindo ao &4&lTrojanCraft, &b{PLAYER}&1!
+&0&lDigite &b/help&0&l para ver a lista de comandos.
 &1Trojanos online:&b {ONLINE} 
 &1 Hora do jogo:&b {WORLDTIME12}

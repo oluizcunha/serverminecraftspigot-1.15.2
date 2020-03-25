@@ -590,7 +590,7 @@ update-bed-at-daytime: true
 # Set to true to enable per-world permissions for using homes to teleport between worlds.
 # This applies to the /home only.
 # Give someone permission to teleport to a world with essentials.worlds.<worldname>
-world-home-permissions: false
+world-home-permissions: true
 
 # Allow players to have multiple homes.
 # Players need essentials.sethome.multiple before they can have more than 1 home.
@@ -600,7 +600,7 @@ world-home-permissions: false
 # Create the 'home-rank' below, and give the matching permission: essentials.sethome.multiple.<home-rank>
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
-  default: 3
+  default: 5
   vip: 5
   staff: 10
 
@@ -912,7 +912,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&1&lBem Vindo {DISPLAYNAME} ao server da Trojan!!'
+  announce-format: '&1&lBem Vindo {DISPLAYNAME} ao TrojanCraft!!'
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
