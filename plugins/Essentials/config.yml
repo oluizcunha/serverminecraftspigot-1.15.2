@@ -24,10 +24,10 @@
 ############################################################
 
 # A color code between 0-9 or a-f. Set to 'none' to disable.
-ops-name-color: '4'
+ops-name-color: "4"
 
 # The character(s) to prefix all nicknames, so that you know they are not true usernames.
-nickname-prefix: '~'
+nickname-prefix: "~"
 
 # The maximum length allowed in nicknames. The nickname prefix is included in this.
 max-nick-length: 15
@@ -65,7 +65,7 @@ change-displayname: true
 #add-prefix-in-playerlist: true
 
 # When this option is enabled, player suffixes will be shown in the playerlist.
-# This feature only works for Minecraft version 1.8 and higher. 
+# This feature only works for Minecraft version 1.8 and higher.
 # This value of change-playerlist has to be true
 #add-suffix-in-playerlist: true
 
@@ -79,7 +79,7 @@ teleport-safety: true
 force-disable-teleport-safety: false
 
 # The delay, in seconds, required between /home, /tp, etc.
-teleport-cooldown: 0
+teleport-cooldown: 2
 
 # The delay, in seconds, before a user actually teleports. If the user moves or gets attacked in this timeframe, the teleport is cancelled.
 teleport-delay: 0
@@ -197,7 +197,7 @@ socialspy-listen-muted-players: true
 mute-commands:
   - f
   - kittycannon
- # - '*'
+  # - '*'
 
 # If you do not wish to use a permission system, you can define a list of 'player perms' below.
 # This list has no effect if you are using a supported permissions system.
@@ -363,15 +363,15 @@ per-warp-permission: false
 # You can hide and merge the groups displayed in /list by defining the desired behaviour here.
 # Detailed instructions and examples can be found on the wiki: http://wiki.ess3.net/wiki/List
 list:
-    # To merge groups, list the groups you wish to merge
-    #Staff: owner admin moderator
-    Admins: owner admin
-    # To limit groups, set a max user limit
-    #builder: 20
-    # To hide groups, set the group as hidden
-    #default: hidden
-    # Uncomment the line below to simply list all players with no grouping
-    #Players: '*'
+  # To merge groups, list the groups you wish to merge
+  #Staff: owner admin moderator
+  Admins: owner admin
+  # To limit groups, set a max user limit
+  #builder: 20
+  # To hide groups, set the group as hidden
+  #default: hidden
+  # Uncomment the line below to simply list all players with no grouping
+  #Players: '*'
 
 # More output to the console.
 debug: false
@@ -422,7 +422,7 @@ cancel-afk-on-move: true
 # Users with the permission node essentials.sleepingignored will always be ignored.
 sleep-ignores-afk-players: true
 
-# Set the player's list name when they are AFK. This is none by default which specifies that Essentials 
+# Set the player's list name when they are AFK. This is none by default which specifies that Essentials
 # should not interfere with the AFK player's list name.
 # You may use color codes, use {USERNAME} the player's name or {PLAYER} for the player's displayname.
 afk-list-name: "none"
@@ -601,6 +601,7 @@ world-home-permissions: true
 # For more information, visit http://wiki.ess3.net/wiki/Multihome
 sethome-multiple:
   default: 5
+  regulars: 3
   vip: 5
   staff: 10
 
@@ -640,9 +641,9 @@ command-costs:
   #kit-tools: 1500
 
 # Set this to a currency symbol you want to use.
-# Remember, if you want to use special characters in this document, 
+# Remember, if you want to use special characters in this document,
 # such as accented letters, you MUST save the file as UTF-8, not ANSI.
-currency-symbol: '$'
+currency-symbol: "$"
 
 # Set the maximum amount of money a player can have.
 # The amount is always limited to 10 trillion because of the limitations of a java double.
@@ -695,7 +696,6 @@ hide-permissionless-help: true
 # This section requires the EssentialsChat.jar to work.
 
 chat:
-
   # If EssentialsChat is installed, this will define how far a player's voice travels, in blocks.  Set to 0 to make all chat global.
   # Note that users with the "essentials.chat.spy" permission will hear everything, regardless of this setting.
   # Users with essentials.chat.shout can override this by prefixing text with an exclamation mark (!)
@@ -708,14 +708,13 @@ chat:
   # For more information of chat formatting, check out the wiki: http://wiki.ess3.net/wiki/Chat_Formatting
   # For EssentialsX changes, take a look at the EssentialsX wiki: https://github.com/EssentialsX/Essentials/wiki
 
-  format: '<{DISPLAYNAME}> {MESSAGE}'
+  format: "<{DISPLAYNAME}> {MESSAGE}"
   #format: '&7[{GROUP}]&r {DISPLAYNAME}&7:&r {MESSAGE}'
   #format: '&7{PREFIX}&r {DISPLAYNAME}&r &7{SUFFIX}&r: {MESSAGE}'
 
   group-formats:
   #  default: '{WORLDNAME} {DISPLAYNAME}&7:&r {MESSAGE}'
   #  admins: '{WORLDNAME} &c[{GROUP}]&r {DISPLAYNAME}&7:&c {MESSAGE}'
-
   # If you are using group formats make sure to remove the '#' to allow the setting to be read.
   # Note: Group names are case-sensitive so you must match them up with your permission plugin.
 
@@ -728,7 +727,6 @@ chat:
 # This section requires the EssentialsProtect.jar to work.
 
 protect:
-
   # General physics/behavior modifications.
   prevent:
     lava-flow: false
@@ -851,16 +849,16 @@ protect:
       thunder: false
       lightning: false
 
-############################################################
-# +------------------------------------------------------+ #
-# |                EssentialsAntiBuild                   | #
-# +------------------------------------------------------+ #
-############################################################
+    ############################################################
+    # +------------------------------------------------------+ #
+    # |                EssentialsAntiBuild                   | #
+    # +------------------------------------------------------+ #
+    ############################################################
 
-  # This section requires the EssentialsAntiBuild.jar to work.
+    # This section requires the EssentialsAntiBuild.jar to work.
 
-  # Disable various default physics and behaviors
-  # For more information, visit http://wiki.ess3.net/wiki/AntiBuild
+    # Disable various default physics and behaviors
+    # For more information, visit http://wiki.ess3.net/wiki/AntiBuild
 
     # Should people with build: false in permissions be allowed to build?
     # Set true to disable building for those people.
@@ -883,7 +881,6 @@ protect:
     on-break:
 
   blacklist:
-
     # Which blocks should people be prevented from placing?
     placement: LAVA,TNT,LAVA_BUCKET
 
@@ -912,7 +909,7 @@ newbies:
   # If so, use this format, replacing {DISPLAYNAME} with the player name.
   # If not, set to ''
   #announce-format: ''
-  announce-format: '&1&lBem Vindo {DISPLAYNAME} ao TrojanCraft!!'
+  announce-format: "&1&lBem Vindo {DISPLAYNAME} ao TrojanCraft!!"
 
   # When we spawn for the first time, which spawnpoint do we use?
   # Set to "none" if you want to use the spawn point of the world.
@@ -945,7 +942,7 @@ spawn-if-no-home: true
 spawn-on-join: false
 # The following value of `guests` states that all players in group `guests` will be teleported to spawn when joining.
 #spawn-on-join: guests
-# The following list value states that all players in group `guests` and `admin` are to be teleported to spawn when joining. 
+# The following list value states that all players in group `guests` and `admin` are to be teleported to spawn when joining.
 #spawn-on-join:
 #- guests
 #- admin
