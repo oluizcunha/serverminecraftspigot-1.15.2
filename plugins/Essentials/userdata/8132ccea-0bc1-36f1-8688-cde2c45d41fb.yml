@@ -1,20 +1,21 @@
 lastAccountName: yaya240692
 timestamps:
-  login: 1585107959347
-  logout: 1585114946921
-  lastteleport: 1585113477736
-ipAddress: 201.86.181.165
+  login: 1585192232350
+  logout: 1585196464126
+  lastteleport: 1585179901983
+ipAddress: 177.17.201.69
 logoutlocation:
   world: world
-  x: -581.8537465414519
+  x: -581.2107501124103
   y: 65.0
-  z: 433.0422334702492
-  yaw: -51.258587
-  pitch: -7.5000463
+  z: 433.7074732283033
+  yaw: 323.53845
+  pitch: 0.90017617
 lastlocation:
   world: world
-  x: -534.5
+  x: -534.4862113118211
   y: 66.0
-  z: 566.5
+  z: 566.2915614512663
   yaw: 0.0
   pitch: 0.0
+afk: false

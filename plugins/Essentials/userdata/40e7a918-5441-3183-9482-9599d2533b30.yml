@@ -1,21 +1,21 @@
 lastAccountName: Belphegor
 timestamps:
-  login: 1585017958091
-  logout: 1585028607217
-  lastteleport: 1585028319438
+  login: 1585184644613
+  logout: 1585186798233
+  lastteleport: 1585186702986
 ipAddress: 187.123.9.235
 logoutlocation:
   world: world
-  x: -464.1124717240534
-  y: 64.0
-  z: 451.9710565579045
-  yaw: 37.605988
-  pitch: 29.849815
+  x: -509.2477218177072
+  y: 100.0
+  z: 326.2979934443543
+  yaw: -6.028671
+  pitch: 21.600163
 lastlocation:
   world: world
-  x: -534.3898147269715
-  y: 66.0
-  z: 566.3046830664667
-  yaw: 95.70002
-  pitch: 11.549995
+  x: -540.5
+  y: 132.0000002
+  z: 396.5
+  yaw: -5.1000013
+  pitch: 0.6000001
 afk: false

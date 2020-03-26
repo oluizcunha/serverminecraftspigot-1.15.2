@@ -1,20 +1,20 @@
 lastAccountName: renerareman
 timestamps:
-  login: 1585109735296
-  lastteleport: 1585116061739
-  logout: 1585116168317
+  login: 1585185071581
+  lastteleport: 1585188894694
+  logout: 1585189031933
 ipAddress: 187.123.2.255
 lastlocation:
   world: world
-  x: -722.8187182713463
-  y: 77.0
-  z: 292.8557682387261
-  yaw: 117.7505
-  pitch: 63.750004
+  x: -717.5
+  y: 111.0000002
+  z: 371.5
+  yaw: 0.0
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -538.9975213794471
-  y: 102.0
-  z: 384.0335021199037
-  yaw: -184.20015
-  pitch: 26.250023
+  x: -639.3000000119209
+  y: 10.0
+  z: 1022.3000000119209
+  yaw: 46.64914
+  pitch: 42.000015

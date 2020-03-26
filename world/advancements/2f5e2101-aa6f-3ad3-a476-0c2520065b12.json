@@ -53,6 +53,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2020-03-26 08:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2020-03-24 01:43:48 +0000"
@@ -146,6 +152,12 @@
   "minecraft:recipes/building_blocks/smooth_stone": {
     "criteria": {
       "has_stone": "2020-03-24 20:09:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-25 20:33:26 +0000"
     },
     "done": true
   },
@@ -305,6 +317,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2020-03-25 18:30:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-24 01:46:46 +0000"
@@ -329,6 +347,7 @@
       "cooked_mutton": "2020-03-24 20:33:03 +0000",
       "cooked_beef": "2020-03-24 18:26:53 +0000",
       "apple": "2020-03-24 22:46:08 +0000",
+      "cooked_cod": "2020-03-25 21:24:15 +0000",
       "mushroom_stew": "2020-03-24 01:25:41 +0000",
       "cooked_salmon": "2020-03-24 18:59:52 +0000"
     },
@@ -454,6 +473,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_sand": "2020-03-25 22:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2020-03-24 01:48:58 +0000"
@@ -502,6 +527,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2020-03-26 08:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 18:58:44 +0000"
@@ -513,6 +544,18 @@
       "has_stone": "2020-03-24 20:09:25 +0000"
     },
     "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-25 20:33:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:turtle": "2020-03-25 22:05:55 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
@@ -598,6 +641,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2020-03-25 22:29:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_planks": {
     "criteria": {
       "has_log": "2020-03-24 01:26:31 +0000"
@@ -622,9 +671,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2020-03-25 18:50:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2020-03-24 01:24:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/turtle_helmet": {
+    "criteria": {
+      "has_scute": "2020-03-26 01:07:17 +0000"
     },
     "done": true
   },
@@ -673,6 +734,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 18:58:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2020-03-25 19:48:24 +0000"
     },
     "done": true
   },
@@ -783,11 +850,13 @@
       "minecraft:skeleton": "2020-03-24 01:46:53 +0000",
       "minecraft:spider": "2020-03-24 01:37:04 +0000",
       "minecraft:creeper": "2020-03-24 01:55:33 +0000",
+      "minecraft:slime": "2020-03-25 21:24:58 +0000",
       "minecraft:phantom": "2020-03-24 20:28:16 +0000",
       "minecraft:witch": "2020-03-24 20:41:43 +0000",
       "minecraft:silverfish": "2020-03-24 01:56:41 +0000",
       "minecraft:zombie": "2020-03-24 01:24:51 +0000",
-      "minecraft:drowned": "2020-03-24 20:47:08 +0000"
+      "minecraft:drowned": "2020-03-24 20:47:08 +0000",
+      "minecraft:zombie_villager": "2020-03-25 19:36:47 +0000"
     },
     "done": false
   },
@@ -873,6 +942,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2020-03-24 18:09:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2020-03-25 21:25:05 +0000"
     },
     "done": true
   },
@@ -975,6 +1050,12 @@
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2020-03-25 03:41:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2020-03-25 20:33:26 +0000"
     },
     "done": true
   },
@@ -1200,6 +1281,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2020-03-26 08:46:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2020-03-24 19:49:58 +0000"
@@ -1221,6 +1308,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2020-03-24 19:49:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2020-03-25 21:25:05 +0000"
     },
     "done": true
   },
@@ -1320,6 +1413,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/coal": {
+    "criteria": {
+      "has_coal_block": "2020-03-25 20:10:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_oak_planks": "2020-03-24 01:20:46 +0000"
@@ -1347,6 +1446,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2020-03-24 01:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2020-03-25 19:48:24 +0000"
     },
     "done": true
   },
@@ -1405,6 +1510,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2020-03-25 21:25:05 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone": {
     "criteria": {
       "has_cobblestone": "2020-03-24 01:24:37 +0000"
@@ -1437,6 +1548,7 @@
       "minecraft:taiga": "2020-03-24 01:15:46 +0000",
       "minecraft:deep_cold_ocean": "2020-03-25 03:47:42 +0000",
       "minecraft:taiga_hills": "2020-03-24 18:12:02 +0000",
+      "minecraft:deep_frozen_ocean": "2020-03-25 22:03:25 +0000",
       "minecraft:birch_forest": "2020-03-25 03:56:09 +0000",
       "minecraft:beach": "2020-03-24 18:11:48 +0000",
       "minecraft:dark_forest": "2020-03-24 01:24:15 +0000",
@@ -1527,6 +1639,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/shoot_arrow": {
+    "criteria": {
+      "shot_arrow": "2020-03-25 19:42:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-24 20:09:25 +0000"
@@ -1608,6 +1726,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_stone": "2020-03-24 01:46:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2020-03-25 22:05:55 +0000"
     },
     "done": true
   },

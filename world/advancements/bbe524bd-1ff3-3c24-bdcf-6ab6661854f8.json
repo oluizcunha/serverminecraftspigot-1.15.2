@@ -561,7 +561,8 @@
   },
   "minecraft:husbandry/bred_all_animals": {
     "criteria": {
-      "minecraft:pig": "2020-03-25 03:04:51 +0000"
+      "minecraft:pig": "2020-03-25 03:04:51 +0000",
+      "minecraft:cow": "2020-03-25 19:16:14 +0000"
     },
     "done": false
   },
@@ -586,6 +587,12 @@
   "minecraft:recipes/decorations/orange_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-23 18:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_rose_bush": {
+    "criteria": {
+      "has_double_plant": "2020-03-25 18:35:34 +0000"
     },
     "done": true
   },
