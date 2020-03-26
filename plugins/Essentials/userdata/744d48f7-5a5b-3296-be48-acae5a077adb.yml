@@ -1,8 +1,8 @@
 lastAccountName: TioPotranca
 timestamps:
-  login: 1585214650229
+  login: 1585219421281
   lastteleport: 1585214296935
-  logout: 1585214654726
+  logout: 1585219552740
   kits:
     firework: 1585201419725
 ipAddress: 187.123.1.223
@@ -15,11 +15,11 @@ lastlocation:
   pitch: 35.396294
 logoutlocation:
   world: world
-  x: -531.6631455195097
-  y: 96.0
-  z: 385.8905384260299
-  yaw: -95.257805
-  pitch: 4.50016
+  x: -430.5899483512101
+  y: 64.0
+  z: 297.4664142009727
+  yaw: -91.20773
+  pitch: 15.750093
 afk: false
 godmode: false
 homes:

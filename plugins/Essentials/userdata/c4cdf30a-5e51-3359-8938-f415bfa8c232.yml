@@ -1,16 +1,16 @@
 lastAccountName: marcelolo
 timestamps:
-  login: 1585197859741
-  logout: 1585198758823
+  login: 1585231986023
+  logout: 1585232477441
   lastteleport: 1585195985727
 ipAddress: 160.20.89.75
 logoutlocation:
   world: world
-  x: -579.8438697962869
+  x: -577.8516854831679
   y: 65.0
-  z: 434.7630023509509
-  yaw: -99.31592
-  pitch: 12.45117
+  z: 434.38552579075974
+  yaw: -176.25775
+  pitch: 16.499977
 lastlocation:
   world: world
   x: -434.157156029229

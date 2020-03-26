@@ -1,8 +1,8 @@
 lastAccountName: Leozin
 timestamps:
-  login: 1585088221341
+  login: 1585245546015
   lastteleport: 1585094241181
-  logout: 1585094375123
+  logout: 1585245664442
 ipAddress: 177.67.193.116
 lastlocation:
   world: world
@@ -22,8 +22,8 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: -510.6874616260278
-  y: 68.0
-  z: 459.0334412896472
-  yaw: 177.15857
-  pitch: -4.6497817
+  x: -510.69999998807907
+  y: 65.0
+  z: 458.30000001192093
+  yaw: -14.390497
+  pitch: -5.399814

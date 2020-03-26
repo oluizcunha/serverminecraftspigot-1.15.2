@@ -1,8 +1,8 @@
 lastAccountName: Gustavo Beraldo
 timestamps:
-  login: 1585198690227
+  login: 1585254851391
   lastteleport: 1585200333773
-  logout: 1585201738323
+  logout: 1585247603741
 ipAddress: 187.123.1.168
 lastlocation:
   world: world
@@ -13,9 +13,9 @@ lastlocation:
   pitch: 11.999967
 logoutlocation:
   world: world
-  x: -595.0243054811581
-  y: 71.0
-  z: 270.9730737926689
-  yaw: 351.32227
-  pitch: -17.699724
+  x: -590.2841120864025
+  y: 72.0
+  z: 273.8844022035227
+  yaw: 8.122253
+  pitch: -0.2999376
 afk: false
