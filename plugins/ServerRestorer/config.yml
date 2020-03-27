@@ -2,12 +2,12 @@ getBackupFileDirectory: ''
 saveServerJar: false
 savePluginJars: false
 AutosaveDelay: 1D,0H
-LastAutosave: 1585157793867
+LastAutosave: 1585306327752
 enableautoSaving: true
 FileNameFormat: Backup-%date%
 prefix: '&6[&3ServerRestorer&6]&8'
-kickMessage: '&6[&3ServerRestorer&6]&8 Preparando para realizar backup. Por favor entre dnv
-  em alguns segundos.'
+kickMessage: '&6[&3ServerRestorer&6]&8 Preparando para realizar backup. Por favor
+  entre dnv em alguns segundos.'
 EnableFTP: false
 EnableFTPS: false
 EnableSFTP: false

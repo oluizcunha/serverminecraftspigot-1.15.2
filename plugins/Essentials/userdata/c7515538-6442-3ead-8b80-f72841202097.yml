@@ -1,21 +1,21 @@
 lastAccountName: Lucas
 timestamps:
-  login: 1585105415993
-  lastteleport: 1585114025173
-  logout: 1585119363567
+  login: 1585277982075
+  lastteleport: 1585279218226
+  logout: 1585279564374
 ipAddress: 179.217.120.129
 lastlocation:
   world: world
-  x: -468.5
-  y: 84.0000002
-  z: 378.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -534.5
+  y: 66.0
+  z: 566.5
+  yaw: 0.30000004
+  pitch: 2.2500002
 logoutlocation:
   world: world
-  x: -517.21138857542
-  y: 103.0
-  z: 284.1957476549562
-  yaw: 323.51123
-  pitch: 11.099855
+  x: -513.300000011921
+  y: 94.0
+  z: 268.69999998807907
+  yaw: 196.73492
+  pitch: 27.150242
 afk: false

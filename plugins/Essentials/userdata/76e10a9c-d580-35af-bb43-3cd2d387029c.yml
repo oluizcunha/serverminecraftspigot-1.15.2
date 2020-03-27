@@ -1,0 +1,22 @@
+lastAccountName: FimoseDeBaleia
+timestamps:
+  login: 1585281543217
+  logout: 1585284266218
+  kits:
+    tools: 1585283613171
+  lastteleport: 1585284199622
+ipAddress: 168.195.193.50
+logoutlocation:
+  world: world
+  x: -1050.8053500782642
+  y: 78.0
+  z: 815.9792690990623
+  yaw: 3.1114502
+  pitch: 28.335587
+lastlocation:
+  world: world
+  x: -970.0308215135427
+  y: 67.84916089870991
+  z: 698.1785551660106
+  yaw: 171.40332
+  pitch: -24.876019

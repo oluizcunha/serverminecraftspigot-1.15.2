@@ -107,9 +107,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2020-03-26 21:22:50 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2020-03-25 21:38:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
     },
     "done": true
   },
@@ -122,6 +134,12 @@
   "minecraft:recipes/combat/golden_sword": {
     "criteria": {
       "has_gold_ingot": "2020-03-25 23:53:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2020-03-26 22:06:51 -0400"
     },
     "done": true
   },
@@ -161,9 +179,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-03-25 21:38:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-27 00:43:11 -0400"
     },
     "done": true
   },
@@ -197,6 +227,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2020-03-26 21:53:42 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_red_mushroom": "2020-03-26 21:44:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cake": {
     "criteria": {
       "has_egg": "2020-03-26 00:04:51 -0400"
@@ -218,6 +260,12 @@
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2020-03-25 21:38:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
     },
     "done": true
   },
@@ -568,6 +616,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_red_mushroom": "2020-03-26 21:44:41 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2020-03-27 00:49:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2020-03-24 22:45:03 -0400"
@@ -620,6 +680,8 @@
     "criteria": {
       "minecraft:pillager": "2020-03-26 00:36:30 -0400",
       "minecraft:skeleton": "2020-03-25 00:37:50 -0400",
+      "minecraft:spider": "2020-03-26 21:25:35 -0400",
+      "minecraft:creeper": "2020-03-26 21:50:35 -0400",
       "minecraft:silverfish": "2020-03-26 00:30:58 -0400",
       "minecraft:zombie": "2020-03-24 22:43:40 -0400",
       "minecraft:zombie_villager": "2020-03-25 22:27:08 -0400"
@@ -629,6 +691,18 @@
   "minecraft:recipes/tools/diamond_shovel": {
     "criteria": {
       "has_diamond": "2020-03-25 23:44:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-27 00:48:28 -0400"
     },
     "done": true
   },
@@ -662,9 +736,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_dark_oak_planks": "2020-03-26 23:13:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2020-03-24 22:53:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
     },
     "done": true
   },
@@ -785,6 +871,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2020-03-27 00:49:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2020-03-24 22:48:37 -0400"
@@ -833,6 +925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-03-26 23:48:48 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot": {
     "criteria": {
       "has_gold_ore": "2020-03-25 23:45:42 -0400"
@@ -848,6 +946,12 @@
   "minecraft:recipes/redstone/light_weighted_pressure_plate": {
     "criteria": {
       "has_gold_ingot": "2020-03-25 23:53:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-03-27 00:38:06 -0400"
     },
     "done": true
   },
@@ -971,6 +1075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2020-03-27 00:49:34 -0400"
+    },
+    "done": true
+  },
   "minecraft:story/root": {
     "criteria": {
       "crafting_table": "2020-03-24 22:54:52 -0400"
@@ -998,6 +1108,12 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2020-03-24 22:53:04 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
     },
     "done": true
   },
@@ -1106,12 +1222,19 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-03-24 22:33:13 -0400",
       "minecraft:mountains": "2020-03-24 23:28:19 -0400",
       "minecraft:taiga": "2020-03-24 22:37:51 -0400",
       "minecraft:taiga_hills": "2020-03-24 23:39:10 -0400",
+      "minecraft:dark_forest": "2020-03-26 21:34:45 -0400",
       "minecraft:river": "2020-03-24 22:35:02 -0400",
       "minecraft:wooded_mountains": "2020-03-25 23:23:15 -0400",
       "minecraft:wooded_hills": "2020-03-25 21:57:35 -0400",
@@ -1270,6 +1393,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2020-03-26 23:13:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_chestplate": "2020-03-27 00:38:06 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_boots": {
     "criteria": {
       "has_diamond": "2020-03-25 23:44:21 -0400"
@@ -1309,6 +1444,12 @@
   "minecraft:recipes/tools/stone_axe": {
     "criteria": {
       "has_cobblestone": "2020-03-24 22:44:17 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-03-27 00:43:11 -0400"
     },
     "done": true
   },
