@@ -329,7 +329,7 @@ auto-removal:
   projectile: true
   item: true
   itemframe: false
-  minecart: true
+  minecart: false
   primed-tnt: true
   item-filter:
   # - Stone <-This item-id will be ignored during removal!
