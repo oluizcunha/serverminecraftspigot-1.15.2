@@ -1,7 +1,7 @@
 lastAccountName: RafaelWhoa
 timestamps:
-  login: 1585330194247
-  logout: 1585329052249
+  login: 1585332674364
+  logout: 1585335006518
   lastteleport: 1585110168431
 ipAddress: 177.41.93.210
 lastlocation:
@@ -13,11 +13,11 @@ lastlocation:
   pitch: 5.079183
 logoutlocation:
   world: world
-  x: -527.557516908046
-  y: 96.0
-  z: 358.13749998807907
-  yaw: 55.052006
-  pitch: 5.5200396
+  x: -523.5590071600204
+  y: 100.0
+  z: 346.3932607431874
+  yaw: -202.51855
+  pitch: 32.739185
 afk: false
 homes:
   home:
