@@ -43,7 +43,7 @@ blacklisted-reasons: []
 #Fine-tuning. You probably don't need to change the values in this cluster.
 fine-tuning:
   min-level: 1
-  max-level: 10
+  max-level: 5
 
   #Since the vanilla damage is pretty weak, you can increase its base value here.
   #The default adds 1 extra point to the attack damage attribute.
@@ -51,9 +51,9 @@ fine-tuning:
 
   #For each level, these values are added to a mob. The default have been tried and tested, but you're free to change it.
   multipliers:
-    movement-speed: 0.065
-    max-health: 0.2
-    attack-damage: 1.5
+    movement-speed: 0.0
+    max-health: 0.1
+    attack-damage: 1.1
     item-drop: 0.16
     xp-drop: 0.1
 
