@@ -1,23 +1,23 @@
 lastAccountName: Rolinha
 timestamps:
-  login: 1585185329500
-  logout: 1585189256232
-  lastteleport: 1585185864950
-ipAddress: 177.203.6.179
+  login: 1585321431295
+  logout: 1585321836392
+  lastteleport: 1585321798632
+ipAddress: 177.203.6.198
 logoutlocation:
   world: world
-  x: -490.26664391809516
-  y: 67.0
-  z: 128.97802717749659
-  yaw: -21.23413
-  pitch: 16.199995
+  x: -534.5
+  y: 66.0999984741211
+  z: 566.5
+  yaw: 0.0
+  pitch: 0.0
 lastlocation:
   world: world
-  x: -514.5734833497656
-  y: 102.0
-  z: 389.469298680622
-  yaw: -161.37177
-  pitch: 51.398453
+  x: -539.1671508328334
+  y: 63.75568430510926
+  z: 572.2464192690057
+  yaw: -174.15012
+  pitch: -15.150015
 homes:
   home:
     world: world

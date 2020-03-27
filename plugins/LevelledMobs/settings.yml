@@ -1,0 +1,90 @@
+#Thank you for installing LevelledMobs!
+#If you have any issues or questions, send them to me via SpigotMC PMs, Discord or the GitHub issues page - NOT the reviews! :)
+
+#Creature nametags.
+# Placeholders:
+# - %level% - the mob's level
+# - %name% - the mob's name
+# - %health% - the mob's health
+# - %max_health% - the mob's max health
+# - %heart_symbol% - a predefined heart symbol.
+creature-nametag: '&8[&7Level %level%&8 | &f%name%&8 | &c%health%&8/&c%max_health% %heart_symbol%&8]'
+
+#This allows creature nametags to be updated to the one set above when they are spawned or damaged.
+#If you use WildStacker or any other stacking plugins, you might want to disable this, by setting it to 'false'.
+enable-nametag-changes: true
+
+#Should passive creatures be levelled?
+#You probably don't want a Level 10 race horse to ramp up your chunk loading, or a random pig that moves fast.
+level-passive: false
+
+#Blacklisted types. These mobs won't be levelled, regardless of the setting above.
+#Blacklist all types by putting in 'ALL'.
+blacklisted-types:
+  - 'VILLAGER'
+  - 'WANDERING_TRADER'
+  - 'ENDER_DRAGON'
+  - 'WITHER'
+  - 'RAVAGER'
+
+#Multiworld support - newly spawned mobs in these worlds won't be levelled.
+#Blacklist all worlds by putting in 'ALL'.
+blacklisted-worlds:
+  - 'blacklisted_world_here'
+  - 'another_blacklisted_world'
+
+#You can block certain spawn reasons from levelling mobs, such as Mob Spawners.
+#To block mob spawners from levelling mobs, remove the [] and the hashtag before - 'SPAWNER'.
+#This checks for SpawnReasons created by the Spigot API.
+#Blacklist all reasons by putting in 'ALL'.
+blacklisted-reasons: []
+#  - 'SPAWNER'
+
+#Fine-tuning. You probably don't need to change the values in this cluster.
+fine-tuning:
+  min-level: 1
+  max-level: 10
+
+  #Since the vanilla damage is pretty weak, you can increase its base value here.
+  #The default adds 1 extra point to the attack damage attribute.
+  default-attack-damage-increase: 1.0
+
+  #For each level, these values are added to a mob. The default have been tried and tested, but you're free to change it.
+  multipliers:
+    movement-speed: 0.065
+    max-health: 0.2
+    attack-damage: 1.5
+    item-drop: 0.16
+    xp-drop: 0.1
+
+  #Should the creature's nametag be removed on death?
+  remove-nametag-on-death: false
+
+  #Should nametags be visible when close by (set to true) or only when looking at it (set to false)?
+  custom-name-visible: false
+
+#Spawn Distance Levelling
+spawn-distance-levelling:
+
+  #Should monsters level depending on distance to spawn?
+  active: false
+
+  #Should monsters with non-default levels spawn?
+  variance: true
+
+  #Each 200 blocks, for example, the level will be increased.
+  increase-level-distance: 200
+
+#Should the plugin check for updates at the SpigotMC page?
+updater: true
+
+#Should the plugin use debug mode?
+#You most likely won't need this. Used in development and testing.
+debug: false
+
+#You shouldn't change this integer unless updating your config.
+#LevelledMobs uses it to determine if your file is outdated.
+#You must set it to the version of the current file, not a future file.
+file-version: 15
+
+#You've made it to the end of the settings file. Treat yourself with a cup of coffee.

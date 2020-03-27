@@ -1,589 +1,257 @@
-[00:00:12] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[00:00:33] [Server thread/INFO]: FimoseDeBaleia issued server command: /kit
-[00:00:41] [Server thread/INFO]: FimoseDeBaleia issued server command: /kits tools
-[00:00:48] [User Authenticator #82/INFO]: UUID of player SaciDePatinete is 0d295207-6a32-3379-b962-713f6b7d14cd
-[00:00:48] [Server thread/INFO]: SaciDePatinete[/201.71.176.251:55027] logged in with entity id 259692 at ([world]-374.26322078369833, 65.0, 524.9250000119209)
-[00:01:28] [Server thread/INFO]: SaciDePatinete fell from a high place
-[00:01:53] [Server thread/INFO]: scardrain issued server command: /warp Vila
-[00:02:04] [Server thread/INFO]: SaciDePatinete issued server command: /kits
-[00:02:10] [Async Chat Thread - #65/INFO]: [m<FimoseDeBaleia[m> kits tools[m
-[00:02:22] [User Authenticator #83/INFO]: UUID of player Gustavo Beraldo is 0de45b06-aa5b-3683-82e8-5753d15e51cb
-[00:02:22] [Server thread/INFO]: Gustavo Beraldo[/187.123.1.168:15831] logged in with entity id 260974 at ([world]-539.5, 101.69568317254246, 386.5)
-[00:02:24] [Server thread/INFO]: SaciDePatinete issued server command: /kits
-[00:02:46] [Server thread/INFO]: SaciDePatinete issued server command: /kits tools
-[00:03:00] [Server thread/INFO]: scardrain issued server command: /home
-[00:03:49] [Server thread/INFO]: MarandoGamer issued server command: /home
-[00:04:06] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:04:34] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> alguém perto de um deserto?[m
-[00:04:39] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> eu descobri um[m
-[00:04:41] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> vc quer ir lá?[m
-[00:04:43] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> si[m
-[00:04:46] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> 5 diamantes[m
-[00:04:48] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> pq demorei achar[m
-[00:04:50] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> vai pagar?[m
-[00:04:51] [Server thread/INFO]: FimoseDeBaleia has made the advancement [Stone Age]
-[00:04:52] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> aseyuhaseas[m
-[00:04:55] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> si[m
-[00:04:56] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> ok[m
-[00:04:57] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> pera[m
-[00:05:01] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:05:13] [Server thread/INFO]: MarandoGamer issued server command: /help money
-[00:05:19] [Server thread/INFO]: MarandoGamer issued server command: /money
-[00:05:20] [Server thread/INFO]: Davigugu55 issued server command: /tpa Gustavo Beraldo
-[00:05:24] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpaccept
-[00:05:30] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> ok[m
-[00:05:31] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:05:33] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> da tp dnv[m
-[00:05:38] [Server thread/INFO]: Davigugu55 issued server command: /tpa Gustavo Beraldo
-[00:05:48] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpaccept
-[00:05:51] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> foi bom negociar com vc.[m
-[00:05:53] [Server thread/INFO]: Davigugu55 issued server command: /valeww
-[00:05:56] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> valeww[m
-[00:06:26] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> alias[m
-[00:06:27] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> quer ajuda?[m
-[00:06:35] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> quer bastante areia?[m
-[00:06:44] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> precisa não, essa pá aqui tá OP[m
-[00:06:49] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> ok..[m
-[00:06:55] [Async Chat Thread - #66/INFO]: [m<Gustavo Beraldo[m> ali tem bioma de savana tb[m
-[00:07:07] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp Vila
-[00:07:11] [Async Chat Thread - #66/INFO]: [m<Davigugu55[m> show[m
-[00:07:52] [Server thread/INFO]: yaya240692 has made the advancement [The Parrots and the Bats]
-[00:08:58] [Server thread/INFO]: Gustavo Beraldo fell from a high place
-[00:09:28] [Server thread/INFO]: Gustavo Beraldo lost connection: Timed out
-[00:09:28] [Server thread/INFO]: Gustavo Beraldo left the game
-[00:09:41] [Server thread/INFO]: FimoseDeBaleia was slain by Wolf
-[00:10:19] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa Beretta711
-[00:10:26] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[00:10:35] [Async Chat Thread - #68/INFO]: [m<Beretta711[m> falae[m
-[00:10:41] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa SaciDePatinete
-[00:10:45] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:11:01] [User Authenticator #84/INFO]: UUID of player Gustavo Beraldo is 0de45b06-aa5b-3683-82e8-5753d15e51cb
-[00:11:02] [Server thread/INFO]: Gustavo Beraldo[/187.123.1.168:15416] logged in with entity id 270861 at ([world]-518.5939361752444, 77.0, 367.64535192480247)
-[00:11:13] [Server thread/INFO]: SaciDePatinete issued server command: /tpaccept
-[00:11:16] [Server thread/WARN]: ❤❤❤❤❤❤❤ moved wrongly!
-[00:11:20] [Server thread/INFO]: Gustavo Beraldo issued server command: /back
-[00:11:20] [Server thread/INFO]: Davigugu55 issued server command: /back
-[00:11:39] [Server thread/INFO]: SaciDePatinete has made the advancement [Stone Age]
-[00:13:15] [Server thread/INFO]: marcelolo issued server command: /tpask
-[00:13:58] [Server thread/INFO]: marcelolo issued server command: /tpask grandejogada
-[00:14:09] [Server thread/INFO]: grandejogada issued server command: /tpaccept
-[00:14:28] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:15:27] [Server thread/INFO]: SaciDePatinete has made the advancement [Monster Hunter]
-[00:16:18] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[00:16:51] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:17:03] [Async Chat Thread - #69/INFO]: [m<Gustavo Beraldo[m> .[m
-[00:17:03] [Server thread/INFO]: Beretta711 issued server command: /home
-[00:19:01] [Server thread/INFO]: FimoseDeBaleia has made the advancement [Acquire Hardware]
-[00:20:05] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> 33 blocos[m
-[00:20:07] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> tá de brincadeira?[m
-[00:20:12] [Async Chat Thread - #70/INFO]: [m<MarandoGamer[m> sdapífjfdsippdaf[m
-[00:20:15] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> tão roubando[m
-[00:20:16] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> -.-[m
-[00:20:33] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp PortalNether
-[00:20:39] [Async Chat Thread - #70/INFO]: [m<Beretta711[m> só te dei aqueles pq agr tá sobrando[m
-[00:20:40] [Server thread/INFO]: Gustavo Beraldo has made the advancement [We Need to Go Deeper]
-[00:20:43] [Async Chat Thread - #70/INFO]: [m<Beretta711[m> fortuninha 3 ne[m
-[00:20:47] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> hmm[m
-[00:20:59] [Async Chat Thread - #70/INFO]: [m<Gustavo Beraldo[m> alguém no nether?[m
-[00:21:30] [Server thread/WARN]: SaciDePatinete moved too quickly! -8.238979456901575,1.1661092609382138,9.690454994946663
-[00:24:08] [Server thread/INFO]: FimoseDeBaleia has made the advancement [Isn't It Iron Pick]
-[00:24:13] [Server thread/INFO]: SaciDePatinete has made the advancement [Isn't It Iron Pick]
-[00:24:19] [Server thread/INFO]: Izzorab fell from a high place
-[00:24:27] [Server thread/INFO]: Izzorab issued server command: /back
-[00:26:49] [Server thread/INFO]: Iziodoro issued server command: /tpask Izzorab
-[00:27:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5019ms or 100 ticks behind
-[00:27:14] [Server thread/INFO]: Izzorab issued server command: /tpaccept
-[00:27:53] [Server thread/INFO]: yaya240692 lost connection: Timed out
-[00:27:53] [Server thread/INFO]: yaya240692 left the game
-[00:27:55] [User Authenticator #85/INFO]: UUID of player yaya240692 is 8132ccea-0bc1-36f1-8688-cde2c45d41fb
-[00:27:55] [Server thread/INFO]: yaya240692[/179.179.94.41:50713] logged in with entity id 288174 at ([world]-580.6999999880791, 65.0, 450.73698803633613)
-[00:29:33] [Server thread/INFO]: FimoseDeBaleia has made the advancement [Not Today, Thank You]
-[00:30:44] [Async Chat Thread - #71/INFO]: [m<SuubMatias[m> como que faz o caminho na grama ?[m
-[00:30:52] [Async Chat Thread - #71/INFO]: [m<Gustavo Beraldo[m> com pá, botão direito[m
-[00:31:19] [Async Chat Thread - #71/INFO]: [m<Gustavo Beraldo[m> cade a galera no dc?[m
-[00:31:30] [Async Chat Thread - #71/INFO]: [m<SuubMatias[m> qq é dc ?[m
-[00:31:32] [Async Chat Thread - #71/INFO]: [m<Gustavo Beraldo[m> discord[m
-[00:31:35] [Async Chat Thread - #71/INFO]: [m<SuubMatias[m> ata[m
-[00:31:38] [Async Chat Thread - #71/INFO]: [m<SuubMatias[m> ent[m
-[00:31:48] [Async Chat Thread - #71/INFO]: [m<SuubMatias[m> N sei quem é a maioria aqui pra chamar la[m
-[00:32:13] [Async Chat Thread - #71/INFO]: [m<scardrain[m> é assim que vc fala depois de ontem a noite vitinho?[m
-[00:32:13] [Server thread/INFO]: SuubMatias fell from a high place
-[00:32:21] [Server thread/INFO]: SuubMatias issued server command: /back
-[00:32:21] [Async Chat Thread - #71/INFO]: [m<Gustavo Beraldo[m> e morreu[m
-[00:32:26] [Server thread/INFO]: FimoseDeBaleia was slain by Zombie
-[00:32:30] [Server thread/INFO]: grandejogada issued server command: /tpask yaya240692
-[00:32:41] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa
-[00:32:42] [Server thread/INFO]: yaya240692 issued server command: /tpaccept
-[00:32:50] [Server thread/INFO]: SaciDePatinete was slain by Zombie
-[00:32:54] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa SaciDePatinete
-[00:33:01] [Async Chat Thread - #71/INFO]: [m<Iziodoro[m> rapaz[m
-[00:33:06] [Server thread/INFO]: FimoseDeBaleia issued server command: /kits
-[00:33:07] [Server thread/INFO]: grandejogada has made the advancement [Cover Me With Diamonds]
-[00:33:12] [Async Chat Thread - #71/INFO]: [m<SaciDePatinete[m> fodeuuu[m
-[00:33:33] [Server thread/INFO]: FimoseDeBaleia issued server command: /kits tools
-[00:33:44] [Server thread/WARN]: SaciDePatinete moved wrongly!
-[00:34:14] [Server thread/WARN]: SaciDePatinete moved too quickly! 2.7243282227716463,0.0,11.538644596019594
-[00:34:42] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> virtor[m
-[00:34:43] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> cai la de cima[m
-[00:34:45] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> cabou o ferro[m
-[00:34:47] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> da mais[m
-[00:34:50] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> entra na call[m
-[00:34:50] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> tmnc[m
-[00:34:54] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> como que fica meus sets[m
-[00:34:56] [Server thread/WARN]: SaciDePatinete moved too quickly! -5.618349237769735,1.1767592750642422,10.207542816924388
-[00:34:59] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> usa de dima[m
-[00:35:04] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> pega la[m
-[00:35:05] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> fds[m
-[00:35:07] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> dps minero mais[m
-[00:35:09] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[00:35:14] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> deixa 3 pack ai[m
-[00:35:18] [Async Chat Thread - #72/INFO]: [m<SuubMatias[m> pra eu fazer picareta[m
-[00:35:33] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> deixei 2[m
-[00:35:33] [Async Chat Thread - #72/INFO]: [m<Gustavo Beraldo[m> tinha dois gauchos[m
-[00:35:34] [Async Chat Thread - #72/INFO]: [m<Beretta711[m> bjs[m
-[00:35:35] [Async Chat Thread - #72/INFO]: [m<Gustavo Beraldo[m> num restaurante[m
-[00:35:36] [Server thread/INFO]: Beretta711 issued server command: /home
-[00:35:44] [Async Chat Thread - #72/INFO]: [m<FimoseDeBaleia[m> 4[m
-[00:35:55] [Async Chat Thread - #72/INFO]: [m<Gustavo Beraldo[m> daí um falou[m
-[00:35:56] [Async Chat Thread - #72/INFO]: [m<Gustavo Beraldo[m> mas batche[m
-[00:35:59] [Async Chat Thread - #72/INFO]: [m<Gustavo Beraldo[m> to com tanta fome[m
-[00:35:59] [Async Chat Thread - #72/INFO]: [m<Iziodoro[m> Tem como dar tp em coordenada?[m
-[00:36:07] [Server thread/INFO]: marcelolo issued server command: /tpask yaya240692
-[00:36:33] [Server thread/INFO]: yaya240692 issued server command: /tpaccept
-[00:36:44] [Server thread/INFO]: Villager EntityVillager['Villager'/1879, l='world', x=-714.46, y=64.00, z=796.54] died, message: 'Villager was slain by Zombie'
-[00:36:50] [Server thread/INFO]: SaciDePatinete issued server command: /tpa FimoseDeBaleia
-[00:36:52] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:36:59] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpaccept
-[00:37:03] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp Vila
-[00:37:12] [Async Chat Thread - #73/INFO]: [m<SuubMatias[m> n[m
-[00:37:29] [Async Chat Thread - #73/INFO]: [m<SuubMatias[m> ta liberado só os tp em pessoas e warps[m
-[00:37:33] [Async Chat Thread - #73/INFO]: [m<SuubMatias[m> e seu home[m
-[00:37:38] [Async Chat Thread - #73/INFO]: [m<Iziodoro[m> tudo certo[m
-[00:37:43] [Server thread/INFO]: Davigugu55 issued server command: /warp MesaEncantamento
-[00:38:02] [Async Chat Thread - #73/INFO]: [m<Gustavo Beraldo[m> osh[m
-[00:38:05] [Server thread/INFO]: SaciDePatinete issued server command: /kits tools
-[00:38:09] [Server thread/INFO]: scardrain issued server command: /warp Vila
-[00:38:14] [Async Chat Thread - #73/INFO]: [m<SuubMatias[m> kakaakak a menina limpou td isso ?[m
-[00:38:20] [Server thread/INFO]: yaya240692 lost connection: Timed out
-[00:38:20] [Server thread/INFO]: yaya240692 left the game
-[00:38:35] [User Authenticator #86/INFO]: UUID of player yaya240692 is 8132ccea-0bc1-36f1-8688-cde2c45d41fb
-[00:38:36] [Server thread/INFO]: yaya240692[/179.179.94.41:50783] logged in with entity id 298636 at ([world]-581.8222324962078, 65.0, 447.56380646729497)
-[00:38:51] [Server thread/WARN]: SaciDePatinete moved too quickly! 2.9720603480432146,-3.176759275064242,12.647258444710815
-[00:38:58] [Server thread/INFO]: SuubMatias lost connection: Disconnected
-[00:38:58] [Server thread/INFO]: SuubMatias left the game
-[00:39:01] [Async Chat Thread - #73/INFO]: [m<Gustavo Beraldo[m> .[m
-[00:39:01] [User Authenticator #87/INFO]: UUID of player SuubMatias is 4c680754-cf62-3e72-9e27-9e3240a8b098
-[00:39:02] [Server thread/INFO]: SuubMatias[/177.13.88.18:9288] logged in with entity id 298852 at ([world]-585.8618761765132, 71.0, 306.856676357388)
-[00:39:13] [Async Chat Thread - #73/INFO]: [m<Gustavo Beraldo[m> fatia de melancia reluzente[m
-[00:39:15] [Server thread/INFO]: SaciDePatinete was shot by Skeleton
-[00:39:17] [Async Chat Thread - #73/INFO]: [m<Gustavo Beraldo[m> n dá pra comer?[m
-[00:39:18] [Async Chat Thread - #73/INFO]: [m<Gustavo Beraldo[m> osh[m
-[00:39:21] [Async Chat Thread - #73/INFO]: [m<SuubMatias[m> pra qq vc precisa de tanto ferro ?[m
-[00:39:28] [Async Chat Thread - #73/INFO]: [m<Beretta711[m> fornalha industrial[m
-[00:39:29] [Server thread/WARN]: SaciDePatinete moved too quickly! -9.646780272884598,-3.0,-0.3734818049476871
-[00:39:42] [Server thread/INFO]: SaciDePatinete issued server command: /tpaccept
-[00:39:45] [User Authenticator #88/INFO]: UUID of player yaya240692 is 8132ccea-0bc1-36f1-8688-cde2c45d41fb
-[00:39:45] [Server thread/INFO]: yaya240692 lost connection: You logged in from another location
-[00:39:45] [Server thread/INFO]: yaya240692 left the game
-[00:39:45] [Server thread/INFO]: yaya240692[/179.179.94.41:50800] logged in with entity id 299162 at ([world]-582.1143209743634, 65.0, 424.4249199265579)
-[00:39:50] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:39:54] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[00:39:55] [Server thread/INFO]: SaciDePatinete issued server command: /tpaccept
-[00:40:00] [Server thread/INFO]: scardrain issued server command: /home
-[00:40:07] [Server thread/INFO]: scardrain issued server command: /back
-[00:40:18] [Server thread/INFO]: SaciDePatinete issued server command: /tpa FimoseDeBaleia
-[00:40:24] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpaccept
-[00:40:29] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> :c[m
-[00:40:32] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> hehehehe[m
-[00:40:36] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> vingança?[m
-[00:40:39] [Server thread/INFO]: SaciDePatinete issued server command: /kits tools
-[00:40:39] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> quase[m
-[00:40:48] [Server thread/INFO]: SuubMatias issued server command: /home
-[00:40:51] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> ce num guenta[m
-[00:41:10] [Server thread/INFO]: scardrain issued server command: /back
-[00:41:19] [Server thread/INFO]: Davigugu55 issued server command: /warp PortalNether
-[00:41:28] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> lag[m
-[00:41:30] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> do cao[m
-[00:41:34] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[00:41:36] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> ata[m
-[00:41:38] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:41:40] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> quase morreu[m
-[00:41:43] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> no soco[m
-[00:41:49] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> nunca[m
-[00:41:51] [Async Chat Thread - #74/INFO]: [m<MarandoGamer[m> arregou e puxou a pexeira[m
-[00:41:52] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:41:57] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:42:01] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> safado[m
-[00:42:02] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> sai dai[m
-[00:42:04] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> KKKKKKKKKKK[m
-[00:42:10] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> to lascado[m
-[00:42:12] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> n tenho comida[m
-[00:42:16] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> 2 coração[m
-[00:42:21] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:42:23] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:42:25] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> ala[m
-[00:42:27] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> os dois[m
-[00:42:28] [Async Chat Thread - #74/INFO]: [m<Gustavo Beraldo[m> af[m
-[00:42:30] [Server thread/INFO]: SuubMatias issued server command: /tpask Beretta711
-[00:42:34] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp Spawn
-[00:42:59] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa
-[00:43:06] [Server thread/INFO]: FimoseDeBaleia issued server command: /tpa SaciDePatinete
-[00:43:12] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[00:43:19] [Server thread/INFO]: SaciDePatinete issued server command: /tpaccept
-[00:44:26] [Server thread/INFO]: FimoseDeBaleia lost connection: Disconnected
-[00:44:26] [Server thread/INFO]: FimoseDeBaleia left the game
-[00:45:36] [Async Chat Thread - #75/INFO]: [m<Gustavo Beraldo[m> caraca[m
-[00:46:32] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp PortalNether
-[00:46:35] [Server thread/INFO]: grandejogada has made the advancement [Enchanter]
-[00:46:49] [Async Chat Thread - #76/INFO]: [m<Gustavo Beraldo[m> como recebe a proeza Merlin?[m
-[00:47:10] [Server thread/INFO]: Gustavo Beraldo fell from a high place
-[00:47:13] [Server thread/INFO]: Gustavo Beraldo issued server command: /back
-[00:47:30] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp Vila
-[00:47:43] [Async Chat Thread - #76/INFO]: [m<Gustavo Beraldo[m> -.-[m
-[00:48:28] [Server thread/INFO]: marcelolo has made the advancement [Enchanter]
-[00:48:36] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpask MarandoGamer
-[00:48:40] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpask marcelolo
-[00:49:30] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpask marcelolo
-[00:49:41] [Server thread/INFO]: Iziodoro was shot by Skeleton
-[00:49:49] [Server thread/INFO]: Iziodoro issued server command: /back
-[00:49:51] [Server thread/INFO]: yaya240692 has made the advancement [Enchanter]
-[00:50:02] [Server thread/INFO]: Gustavo Beraldo issued server command: /tpask yaya240692
-[00:50:16] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:50:53] [Server thread/INFO]: SuubMatias issued server command: /tpask MarandoGamer
-[00:50:56] [Server thread/INFO]: Gustavo Beraldo issued server command: /msg yaya240692 Como é esse Merlin ai?
-[00:51:07] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[00:51:47] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:51:51] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:52:09] [Server thread/WARN]: Davigugu55 moved wrongly!
-[00:52:16] [Async Chat Thread - #77/INFO]: [m<Gustavo Beraldo[m> pq?[m
-[00:52:28] [Async Chat Thread - #77/INFO]: [m<SuubMatias[m> sla[m
-[00:52:31] [Async Chat Thread - #77/INFO]: [m<SuubMatias[m> ele é burro[m
-[00:52:58] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[00:53:13] [Server thread/INFO]: Davigugu55 issued server command: /spawn
-[00:53:16] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:53:57] [Server thread/INFO]: Gustavo Beraldo issued server command: /HOME
-[00:54:00] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp vila
-[00:54:34] [Server thread/INFO]: MarandoGamer issued server command: /home
-[00:54:47] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:54:53] [Server thread/INFO]: Davigugu55 issued server command: /back
-[00:55:09] [Server thread/INFO]: Davigugu55 issued server command: /home
-[00:55:38] [Server thread/INFO]: Davigugu55 issued server command: /back
-[00:56:56] [Server thread/INFO]: Davigugu55 issued server command: /back
-[00:56:59] [Server thread/INFO]: Davigugu55 issued server command: /back
-[00:57:24] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> .[m
-[00:58:14] [Server thread/INFO]: yaya240692 lost connection: Disconnected
-[00:58:14] [Server thread/INFO]: yaya240692 left the game
-[00:58:24] [Async Chat Thread - #78/INFO]: [m<SuubMatias[m> kakakak[m
-[00:59:16] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> lag[m
-[00:59:21] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> travou tudo[m
-[00:59:27] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> meu sinal ta mt ruim :c[m
-[00:59:59] [Server thread/INFO]: Gustavo Beraldo issued server command: /home
-[01:00:04] [Async Chat Thread - #78/INFO]: [m<SuubMatias[m> deve ta na bosta[m
-[01:00:04] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> k[m
-[01:00:07] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> nada[m
-[01:00:18] [Server thread/INFO]: Gustavo Beraldo issued server command: /warp Vila
-[01:00:20] [Server thread/INFO]: SuubMatias issued server command: /home
-[01:00:32] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> olha meu sinal[m
-[01:00:33] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> vc trava[m
-[01:00:34] [Server thread/INFO]: otaviobrandao10 lost connection: Disconnected
-[01:00:34] [Server thread/INFO]: otaviobrandao10 left the game
-[01:00:35] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> é horrível[m
-[01:00:52] [Async Chat Thread - #78/INFO]: [m<Gustavo Beraldo[m> onde tem bigorna?[m
-[01:02:02] [Async Chat Thread - #79/INFO]: [m<Gustavo Beraldo[m> ...[m
-[01:02:18] [Server thread/INFO]: Gustavo Beraldo lost connection: Disconnected
-[01:02:18] [Server thread/INFO]: Gustavo Beraldo left the game
-[01:06:35] [Server thread/INFO]: scardrain issued server command: /home
-[01:06:48] [Server thread/INFO]: scardrain issued server command: /back
-[01:08:42] [Server thread/INFO]: SaciDePatinete lost connection: Disconnected
-[01:08:42] [Server thread/INFO]: SaciDePatinete left the game
-[01:10:37] [Server thread/INFO]: scardrain issued server command: /home
-[01:14:13] [Server thread/INFO]: grandejogada lost connection: Disconnected
-[01:14:13] [Server thread/INFO]: grandejogada left the game
-[01:14:21] [Server thread/INFO]: Beretta711 issued server command: /mining
-[01:14:49] [Server thread/INFO]: Iziodoro has made the advancement [Sweet Dreams]
-[01:14:57] [Server thread/INFO]: Izzorab lost connection: Disconnected
-[01:14:57] [Server thread/INFO]: Izzorab left the game
-[01:15:05] [Server thread/INFO]: Iziodoro lost connection: Disconnected
-[01:15:05] [Server thread/INFO]: Iziodoro left the game
-[01:15:35] [Server thread/INFO]: marcelolo lost connection: Disconnected
-[01:15:35] [Server thread/INFO]: marcelolo left the game
-[01:16:08] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[01:16:28] [Server thread/INFO]: MarandoGamer issued server command: /back
-[01:18:31] [Server thread/INFO]: SuubMatias lost connection: Disconnected
-[01:18:31] [Server thread/INFO]: SuubMatias left the game
-[01:20:22] [Server thread/INFO]: scardrain issued server command: /warp Vila
-[01:20:37] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[01:21:06] [Server thread/INFO]: scardrain issued server command: /home
-[01:21:27] [Server thread/INFO]: Beretta711 issued server command: /home
-[01:22:11] [User Authenticator #89/INFO]: UUID of player yaya240692 is 8132ccea-0bc1-36f1-8688-cde2c45d41fb
-[01:22:11] [Server thread/INFO]: yaya240692[/179.179.94.41:50907] logged in with entity id 331261 at ([world]-576.3000000119209, 65.0, 439.123047721868)
-[01:23:42] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> alguem tem batatas pra trocar comigo por cenouras?[m
-[01:24:08] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> tenho pao tambem[m
-[01:24:12] [Async Chat Thread - #80/INFO]: [m<scardrain[m> qto vc quer de batata?[m
-[01:24:21] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> umas 15[m
-[01:24:38] [Server thread/INFO]: scardrain issued server command: /tpask yaya240692
-[01:24:47] [Server thread/INFO]: yaya240692 issued server command: /tpaccept
-[01:24:55] [Async Chat Thread - #80/INFO]: [m<scardrain[m> pode ficar com elas[m
-[01:25:01] [Server thread/INFO]: scardrain issued server command: /back
-[01:25:25] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> te joguei as cenouras mas vc sumiu kk[m
-[01:25:25] [Async Chat Thread - #80/INFO]: [m<scardrain[m> se precisar de mais, tem uma plantação no pé da vila, pode pegar lá, ai replanta[m
-[01:25:28] [Server thread/INFO]: scardrain issued server command: /back
-[01:25:29] [Async Chat Thread - #80/INFO]: [m<scardrain[m> dhasudasudh[m
-[01:25:30] [Async Chat Thread - #80/INFO]: [m<scardrain[m> vlw[m
-[01:25:35] [Server thread/INFO]: scardrain issued server command: /back
-[01:25:39] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> blz! valeu[m
-[01:25:43] [Async Chat Thread - #80/INFO]: [m<scardrain[m> suave[m
-[01:26:01] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> ee[m
-[01:26:14] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> mds quanta batata kkk[m
-[01:26:26] [Async Chat Thread - #80/INFO]: [m<scardrain[m> kkkkkkk[m
-[01:26:40] [Async Chat Thread - #80/INFO]: [m<yaya240692[m> ee[m
-[01:46:39] [Server thread/INFO]: Beretta711 lost connection: Disconnected
-[01:46:39] [Server thread/INFO]: Beretta711 left the game
-[01:46:55] [User Authenticator #90/INFO]: UUID of player Beretta711 is 041514b6-7a8c-3f9f-a2fd-b0438b4a5b0e
-[01:46:55] [Server thread/INFO]: Beretta711[/187.123.1.159:14286] logged in with entity id 340748 at ([world]-562.4033135680224, 71.0, 294.6883829191076)
-[01:47:07] [Server thread/INFO]: Beretta711 lost connection: Disconnected
-[01:47:07] [Server thread/INFO]: Beretta711 left the game
-[01:48:23] [Server thread/INFO]: scardrain issued server command: /warp mobtrap
-[01:51:22] [Server thread/INFO]: scardrain issued server command: /home
-[01:52:23] [User Authenticator #91/INFO]: UUID of player Beretta711 is 041514b6-7a8c-3f9f-a2fd-b0438b4a5b0e
-[01:52:23] [Server thread/INFO]: Beretta711[/187.123.1.159:13830] logged in with entity id 343256 at ([world]-562.4033135680224, 71.0, 294.6883829191076)
-[01:58:05] [Server thread/INFO]: scardrain lost connection: Disconnected
-[01:58:05] [Server thread/INFO]: scardrain left the game
-[02:11:14] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[02:12:53] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[02:13:14] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[02:25:42] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[02:26:41] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[02:27:00] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[02:28:08] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[02:28:57] [Server thread/INFO]: Beretta711 issued server command: /home
-[02:29:38] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[02:29:40] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[02:31:40] [Server thread/INFO]: yaya240692 lost connection: Disconnected
-[02:31:40] [Server thread/INFO]: yaya240692 left the game
-[02:34:55] [Server thread/INFO]: MarandoGamer issued server command: /home
-[02:34:55] [Server thread/WARN]: MarandoGamer moved too quickly! 179.51213956076174,3.0,-629.4753367782004
-[02:35:07] [Server thread/INFO]: Beretta711 issued server command: /home
-[02:58:23] [Server thread/INFO]: MarandoGamer issued server command: /warp Spawn
-[03:02:50] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:02:52] [Server thread/INFO]: Beretta711 issued server command: /herbalism
-[03:03:06] [Server thread/INFO]: Beretta711 issued server command: /mmoinfo DoubleDrops
-[03:05:02] [Server thread/INFO]: MarandoGamer issued server command: /herbalism
-[03:05:38] [Server thread/INFO]: Beretta711 issued server command: /excavation
-[03:05:53] [Server thread/INFO]: Beretta711 issued server command: /mining
-[03:06:40] [Server thread/INFO]: Beretta711 issued server command: /sethome 2
-[03:09:04] [Server thread/INFO]: MarandoGamer has made the advancement [Hot Stuff]
-[03:09:40] [Server thread/INFO]: MarandoGamer issued server command: /vila
-[03:09:44] [Server thread/INFO]: MarandoGamer issued server command: /warp vila
-[03:12:30] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:12:47] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[03:14:11] [Server thread/INFO]: Beretta711 has made the advancement [Ice Bucket Challenge]
-[03:14:26] [Server thread/INFO]: Davigugu55 lost connection: Disconnected
-[03:14:26] [Server thread/INFO]: Davigugu55 left the game
-[03:16:46] [Server thread/INFO]: MarandoGamer issued server command: /warp vila
-[03:18:20] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:20:01] [Server thread/INFO]: MarandoGamer issued server command: /warp vila
-[03:20:17] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[03:20:17] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[03:21:03] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[03:21:11] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:21:14] [Server thread/INFO]: MarandoGamer has made the advancement [Ice Bucket Challenge]
-[03:21:30] [Server thread/INFO]: Beretta711 issued server command: /warp vila
-[03:23:48] [Server thread/INFO]: MarandoGamer lost connection: Disconnected
-[03:23:48] [Server thread/INFO]: MarandoGamer left the game
-[03:25:46] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[03:25:55] [Server thread/INFO]: Beretta711 has made the advancement [We Need to Go Deeper]
-[03:28:56] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:30:02] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:30:21] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[03:31:25] [User Authenticator #92/INFO]: UUID of player MarandoGamer is 1a1f8f59-e67a-3ae0-a28a-fe40d5c80c27
-[03:31:26] [Server thread/INFO]: MarandoGamer[/189.40.77.108:19729] logged in with entity id 367097 at ([world]-572.6907983730749, 71.0, 255.63776596933974)
-[03:36:17] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[03:36:20] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[03:41:43] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[03:41:46] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[03:42:00] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[03:43:06] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[03:43:08] [Server thread/INFO]: MarandoGamer issued server command: /home
-[03:43:16] [Server thread/INFO]: MarandoGamer issued server command: /warp PortalEnd
-[03:43:16] [Server thread/INFO]: MarandoGamer has made the advancement [Eye Spy]
-[03:43:45] [Server thread/INFO]: MarandoGamer issued server command: /warp home
-[03:43:55] [Server thread/INFO]: MarandoGamer issued server command: /home
-[03:44:40] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[03:44:42] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[03:45:07] [Server thread/INFO]: MarandoGamer issued server command: /home
-[03:45:09] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:45:16] [Server thread/INFO]: MarandoGamer issued server command: /home
-[03:45:55] [Server thread/INFO]: MarandoGamer issued server command: /home
-[03:46:44] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[03:46:45] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[03:46:51] [Server thread/INFO]: MarandoGamer issued server command: /back
-[03:47:07] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:47:53] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:52:31] [Server thread/INFO]: Beretta711 issued server command: /home
-[03:53:09] [Server thread/INFO]: Beretta711 issued server command: /back
-[03:53:29] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[03:53:35] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[03:55:44] [Async Chat Thread - #81/INFO]: [m<MarandoGamer[m> -68 70[m
-[03:57:44] [Server thread/INFO]: MarandoGamer fell from a high place
-[03:57:53] [Server thread/INFO]: MarandoGamer issued server command: /warp PortalNether
-[03:58:08] [Server thread/INFO]: MarandoGamer issued server command: /back
-[03:58:14] [Server thread/INFO]: MarandoGamer issued server command: /back
-[03:58:28] [Server thread/INFO]: MarandoGamer issued server command: /warp PortalNether
-[03:59:00] [Server thread/INFO]: MarandoGamer fell from a high place
-[03:59:06] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:03:11] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:03:53] [Server thread/INFO]: Beretta711 issued server command: /delhome
-[04:03:55] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:04:01] [Server thread/INFO]: Beretta711 issued server command: /sethome
-[04:04:39] [Server thread/INFO]: Beretta711 fell from a high place
-[04:04:43] [Server thread/INFO]: Beretta711 issued server command: /back
-[04:04:59] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:06:08] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:08:01] [Server thread/INFO]: Beretta711 issued server command: /warp PortalNether
-[04:09:00] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:09:26] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[04:09:28] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[04:09:45] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:10:06] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:10:16] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:13:02] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:16:16] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:18:15] [Server thread/WARN]: MarandoGamer moved wrongly!
-[04:31:36] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[04:34:18] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:34:31] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:35:29] [Server thread/INFO]: Beretta711 issued server command: /home
-[04:35:49] [Server thread/INFO]: Beretta711 issued server command: /back
-[04:45:28] [Server thread/INFO]: Beretta711 issued server command: /back
-[04:47:00] [Server thread/INFO]: MarandoGamer issued server command: /warp PortalNether
-[04:47:56] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:48:13] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[04:48:17] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[04:48:55] [Server thread/INFO]: MarandoGamer fell from a high place
-[04:49:02] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:49:31] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[04:49:33] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[04:49:39] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:52:29] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[04:52:33] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[04:53:58] [Server thread/INFO]: MarandoGamer issued server command: /home
-[04:54:08] [Server thread/INFO]: MarandoGamer issued server command: /back
-[04:56:54] [Async Chat Thread - #82/INFO]: [m<MarandoGamer[m> wa[m
-[04:56:57] [Server thread/INFO]: MarandoGamer issued server command: /warp
-[04:57:02] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[05:05:47] [Server thread/INFO]: MarandoGamer issued server command: /warp PortalNether
-[05:07:59] [Server thread/INFO]: Beretta711 has made the advancement [Hot Stuff]
-[05:10:32] [Server thread/INFO]: Beretta711 issued server command: /home
-[05:10:51] [Server thread/INFO]: Beretta711 issued server command: /home
-[05:11:30] [Server thread/INFO]: MarandoGamer issued server command: /gome
-[05:11:33] [Server thread/INFO]: MarandoGamer burned to death
-[05:11:39] [Server thread/INFO]: MarandoGamer issued server command: /back
-[05:13:32] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[05:13:37] [Server thread/INFO]: Beretta711 issued server command: /tpac
-[05:13:40] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[05:23:22] [Server thread/WARN]: MarandoGamer moved wrongly!
-[05:27:24] [Server thread/INFO]: MarandoGamer issued server command: /home
-[05:39:56] [Async Chat Thread - #83/INFO]: [m<MarandoGamer[m> ZzZZzZzZ[m
-[05:40:41] [Server thread/INFO]: Beretta711 issued server command: /home
-[05:41:02] [Server thread/INFO]: Beretta711 fell from a high place
-[05:41:05] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:41:09] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:41:13] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:41:31] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:42:47] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[05:42:50] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[05:44:38] [Server thread/WARN]: Beretta711 moved wrongly!
-[05:50:01] [Server thread/INFO]: MarandoGamer issued server command: /home
-[05:52:34] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[05:52:38] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[05:52:43] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:54:36] [Server thread/INFO]: Beretta711 fell from a high place
-[05:54:40] [Server thread/INFO]: Beretta711 issued server command: /back
-[05:55:22] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[05:55:27] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[05:55:40] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
-[05:57:20] [Server thread/INFO]: MarandoGamer issued server command: /home
-[06:01:04] [Async Chat Thread - #84/INFO]: [m<MarandoGamer[m> t[m
-[06:01:12] [Server thread/INFO]: MarandoGamer issued server command: /tpask Beretta711
-[06:01:13] [Server thread/INFO]: Beretta711 issued server command: /tpaccept
-[06:01:45] [Server thread/INFO]: Beretta711 issued server command: /acrobatics
-[06:03:18] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[06:03:22] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[06:04:16] [Server thread/INFO]: Villager EntityVillager['Villager'/405632, l='world', x=-518.49, y=142.99, z=-818.50] died, message: 'Villager tried to swim in lava'
-[06:05:14] [Server thread/INFO]: MarandoGamer issued server command: /home
-[06:05:29] [Server thread/INFO]: Beretta711 issued server command: /sethome
-[06:06:08] [Server thread/WARN]: Beretta711 moved wrongly!
-[06:06:52] [Server thread/INFO]: MarandoGamer issued server command: /back
-[06:07:12] [Server thread/INFO]: Beretta711 issued server command: /home
-[06:07:29] [Server thread/INFO]: MarandoGamer issued server command: /home
-[06:07:40] [Server thread/INFO]: Beretta711 issued server command: /tpa MarandoGamer
-[06:07:46] [Server thread/INFO]: MarandoGamer issued server command: /tpaccept
-[06:09:03] [Server thread/INFO]: Beretta711 issued server command: /repair
-[06:09:10] [Server thread/INFO]: Beretta711 issued server command: /mmoinfo RepairMastery
-[06:11:28] [Server thread/INFO]: MarandoGamer lost connection: Disconnected
-[06:11:28] [Server thread/INFO]: MarandoGamer left the game
-[06:12:10] [Server thread/INFO]: Beretta711 issued server command: /home
-[06:12:29] [Server thread/INFO]: Beretta711 issued server command: /back
-[06:16:33] [Server thread/INFO]: Beretta711 issued server command: /home
-[06:18:16] [Server thread/INFO]: Beretta711 lost connection: Disconnected
-[06:18:16] [Server thread/INFO]: Beretta711 left the game
-[06:52:07] [Server thread/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Starting to save directory. Please wait.[m
-[06:52:07] [Server thread/WARN]: A manual (plugin-induced) save has been detected while server is configured to auto-save. This may affect performance.
-[06:54:13] [Craft Scheduler Thread - 308/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Done! Backup took:2M, 5S[m
-[06:54:14] [Craft Scheduler Thread - 308/INFO]: [0;33;22m[[0;36;22mServerRestorer[0;33;22m][0;30;1m Compressed server with size of 1.4 GiB to 1.2 GiB[m
-[07:50:07] [User Authenticator #93/INFO]: UUID of player Beretta711 is 041514b6-7a8c-3f9f-a2fd-b0438b4a5b0e
-[07:50:08] [Server thread/INFO]: Beretta711[/187.123.1.159:14299] logged in with entity id 409638 at ([world]-516.6999999880791, 138.0, -816.6999999880791)
-[09:45:02] [User Authenticator #94/INFO]: UUID of player Oamanuc is ff3c787f-8094-31ee-befa-1caba18a60b9
-[09:45:02] [Server thread/INFO]: Oamanuc[/177.41.80.88:53453] logged in with entity id 421814 at ([world]-529.5, 63.0, 559.5)
-[09:45:02] [pool-6-thread-1/INFO]: A criar configuração vazia: /home/serverspigot/plugins/Essentials/userdata/ff3c787f-8094-31ee-befa-1caba18a60b9.yml
-[09:45:02] [Server thread/INFO]: Oamanuc has made the advancement [Getting an Upgrade]
-[09:45:10] [Async Chat Thread - #85/INFO]: [m<Oamanuc[m> a[m
-[09:45:12] [Async Chat Thread - #85/INFO]: [m<Oamanuc[m> teste[m
-[09:45:14] [Async Chat Thread - #85/INFO]: [m<Oamanuc[m> 1[m
-[09:45:15] [Async Chat Thread - #85/INFO]: [m<Oamanuc[m> 2, 3 , 4[m
-[09:48:05] [User Authenticator #95/INFO]: UUID of player CowboyBee is 013520fb-8d66-3d38-88b8-18d4e4a667b7
-[09:48:06] [Server thread/INFO]: CowboyBee[/179.216.200.52:53779] logged in with entity id 422765 at ([world]-535.5, 63.0, 557.5)
-[09:48:06] [pool-6-thread-1/INFO]: A criar configuração vazia: /home/serverspigot/plugins/Essentials/userdata/013520fb-8d66-3d38-88b8-18d4e4a667b7.yml
-[09:48:06] [Server thread/INFO]: CowboyBee has made the advancement [Getting an Upgrade]
-[09:50:05] [Server thread/INFO]: Oamanuc has made the advancement [A Seedy Place]
-[09:51:28] [Server thread/INFO]: CONSOLE issued server command: /list 
-[09:51:28] [Server thread/INFO]: [0;33;22mHá [0;31;1m3[0;33;22m de um máximo de [0;31;1m50[0;33;22m jogadores online.[m
-[09:51:28] [Server thread/INFO]: [0;33;22mdefault[m: [0;37;22m[Ausente][mBeretta711[m[0;37;1m, CowboyBee[m[0;37;1m, Oamanuc[m[0;37;1m[m
-[09:51:53] [Server thread/INFO]: [Server] Bom dia, servidor entrarÃ¡ em manutenÃ§Ã£o dentro de 5 minutos
-[09:52:32] [Server thread/INFO]: [Server] Estamos trabalhando para melhor divertimento de todos - Att TioPotranca
-[09:52:59] [Server thread/INFO]: CowboyBee was shot by Skeleton
-[09:53:32] [Async Chat Thread - #86/INFO]: [m<Oamanuc[m> -765 935[m
-[09:57:08] [Server thread/INFO]: [Server] Voltaremos em breve!
-[09:57:11] [Server thread/INFO]: Stopping the server
-[09:57:11] [Server thread/INFO]: Stopping server
-[09:57:11] [Server thread/INFO]: [EssentialsProtect] Disabling EssentialsProtect v2.17.2.0
-[09:57:11] [Server thread/INFO]: [EssentialsChat] Disabling EssentialsChat v2.17.2.0
-[09:57:11] [Server thread/INFO]: [EssentialsSpawn] Disabling EssentialsSpawn v2.17.2.0
-[09:57:11] [Server thread/INFO]: [Essentials] Disabling Essentials v2.17.2.0
-[09:57:11] [Server thread/INFO]: [ServerRestorer] Disabling ServerRestorer v1.0.32
-[09:57:11] [Server thread/INFO]: [mcMMO] Disabling mcMMO v2.1.126-SNAPSHOT
-[09:57:11] [Server thread/INFO]: [mcMMO] Saving mcMMOPlayers... (3)
-[09:57:11] [Server thread/INFO]: [mcMMO] Saving data for player: Oamanuc
-[09:57:11] [Server thread/INFO]: [mcMMO] Saving data for player: CowboyBee
-[09:57:11] [Server thread/INFO]: [mcMMO] Saving data for player: Beretta711
-[09:57:11] [Server thread/INFO]: [mcMMO] Finished save operation for 3 players!
-[09:57:11] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.1.6
-[09:57:11] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
-[09:57:12] [Server thread/INFO]: Saving players
-[09:57:12] [Server thread/INFO]: Beretta711 lost connection: Server closed
-[09:57:12] [Server thread/INFO]: Beretta711 left the game
-[09:57:12] [Server thread/INFO]: Oamanuc lost connection: Server closed
-[09:57:12] [Server thread/INFO]: Oamanuc left the game
-[09:57:12] [Server thread/INFO]: CowboyBee lost connection: Server closed
-[09:57:12] [Server thread/INFO]: CowboyBee left the game
-[09:57:12] [Server thread/INFO]: Saving worlds
-[09:57:12] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
-[09:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:57:12] [Server thread/INFO]: Saving chunks for level 'world_nether'/minecraft:the_nether
-[09:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:57:12] [Server thread/INFO]: Saving chunks for level 'world_the_end'/minecraft:the_end
-[09:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[09:57:12] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[09:57:13] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[09:57:14] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:28:01] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[13:28:01] [Server thread/INFO]: Loading properties
+[13:28:01] [Server thread/INFO]: This server is running CraftBukkit version git-Spigot-6de3d4b-796eb15 (MC: 1.15.2) (Implementing API version 1.15.2-R0.1-SNAPSHOT)
+[13:28:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[13:28:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[13:28:02] [Server thread/INFO]: Debug logging is disabled
+[13:28:02] [Server thread/INFO]: Default game type: SURVIVAL
+[13:28:02] [Server thread/INFO]: Generating keypair
+[13:28:02] [Server thread/INFO]: Starting Minecraft server on *:25565
+[13:28:02] [Server thread/INFO]: Using epoll channel type
+[13:28:05] [Server thread/INFO]: [ClearLag] Loading ClearLag v3.1.6
+[13:28:05] [Server thread/INFO]: [SkinsRestorer] Loading SkinsRestorer v13.7.5
+[13:28:05] [Server thread/INFO]: [Notify] Loading Notify v6.2
+[13:28:05] [Server thread/INFO]: [mcMMO] Loading mcMMO v2.1.126-SNAPSHOT
+[13:28:05] [Server thread/INFO]: [LevelledMobs] Loading LevelledMobs v1.27
+[13:28:05] [Server thread/INFO]: [ServerRestorer] Loading ServerRestorer v1.0.32
+[13:28:05] [Server thread/INFO]: [Essentials] Loading Essentials v2.17.2.0
+[13:28:05] [Server thread/INFO]: [EssentialsSpawn] Loading EssentialsSpawn v2.17.2.0
+[13:28:05] [Server thread/INFO]: [EssentialsChat] Loading EssentialsChat v2.17.2.0
+[13:28:05] [Server thread/INFO]: [EditableSign] Loading EditableSign v7.0.4
+[13:28:05] [Server thread/INFO]: [Harbor] Loading Harbor v1.6.1
+[13:28:05] [Server thread/INFO]: [EssentialsProtect] Loading EssentialsProtect v2.17.2.0
+[13:28:05] [Server thread/INFO]: [LevelledMobs] Enabling LevelledMobs v1.27
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?71?8/?76?8] ?7Checking compatibility...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7Server is running supported version ?agit-Spigot-6de3d4b-796eb15 (MC: 1.15.2)?7.
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?72?8/?76?8] ?7Loading files...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?73?8/?76?8] ?7Registering events...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?74?8/?76?8] ?7Registering commands...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?75?8/?76?8] ?7Hooking to other plugins...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?76?8/?76?8] ?7Starting metrics...
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7Loaded successfuly. Thank you for choosing LevelledMobs!
+[13:28:05] [Server thread/INFO]: [LevelledMobs] ?7?8[?7Update Checker?8] ?7Starting version comparison...
+[13:28:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[13:28:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[13:28:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[13:28:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[13:28:05] [Server thread/INFO]: Preparing level "world"
+[13:28:06] [Server thread/INFO]: Reloading ResourceManager: Default, bukkit
+[13:28:07] [Server thread/INFO]: Loaded 6 recipes
+[13:28:08] [Server thread/INFO]: -------- World Settings For [world] --------
+[13:28:09] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:28:09] [Server thread/INFO]: Mob Spawn Range: 6
+[13:28:09] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:28:09] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:28:09] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:28:09] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:28:09] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:28:09] [Server thread/INFO]: Max TNT Explosions: 100
+[13:28:09] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:28:09] [Server thread/INFO]: View Distance: 10
+[13:28:09] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:28:09] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:28:09] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:28:09] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:28:09] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:28:09] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:28:35] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[13:28:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:28:35] [Server thread/INFO]: Mob Spawn Range: 6
+[13:28:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:28:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:28:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:28:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:28:35] [Server thread/INFO]: Max TNT Explosions: 100
+[13:28:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:28:35] [Server thread/INFO]: View Distance: 10
+[13:28:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:28:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:28:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:28:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:28:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:28:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:28:35] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[13:28:35] [Server thread/INFO]: Experience Merge Radius: 3.0
+[13:28:35] [Server thread/INFO]: Mob Spawn Range: 6
+[13:28:35] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Cane Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Melon Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Potato Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Vine Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[13:28:35] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[13:28:35] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[13:28:35] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[13:28:35] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 Slime: 987234911
+[13:28:35] [Server thread/INFO]: Max TNT Explosions: 100
+[13:28:35] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[13:28:35] [Server thread/INFO]: View Distance: 10
+[13:28:35] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[13:28:35] [Server thread/INFO]: Item Despawn Rate: 6000
+[13:28:35] [Server thread/INFO]: Item Merge Radius: 2.5
+[13:28:35] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[13:28:35] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[13:28:35] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[13:28:35] [Server thread/INFO]: Preparing start region for dimension 'world'/minecraft:overworld
+[13:28:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:36] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:37] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:38] [Server thread/INFO]: Time elapsed: 2955 ms
+[13:28:38] [Server thread/INFO]: Preparing start region for dimension 'world_nether'/minecraft:the_nether
+[13:28:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:39] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:39] [Server thread/INFO]: Preparing spawn area: 83%
+[13:28:40] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[13:28:40] [Server-Worker-1/INFO]: Preparing spawn area: 97%
+[13:28:41] [Server-Worker-1/INFO]: Preparing spawn area: 99%
+[13:28:41] [Server thread/INFO]: Time elapsed: 3144 ms
+[13:28:41] [Server thread/INFO]: Preparing start region for dimension 'world_the_end'/minecraft:the_end
+[13:28:41] [Server thread/INFO]: Preparing spawn area: 0%
+[13:28:41] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[13:28:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[13:28:42] [Server-Worker-1/INFO]: Preparing spawn area: 83%
+[13:28:43] [Server-Worker-1/INFO]: Preparing spawn area: 92%
+[13:28:43] [Server thread/INFO]: Time elapsed: 2379 ms
+[13:28:43] [Server thread/INFO]: [ClearLag] Enabling ClearLag v3.1.6
+[13:28:43] [Server thread/INFO]: [ClearLag] Loading modules...
+[13:28:43] [Server thread/INFO]: [ClearLag] Modules enabed, loading config values
+[13:28:43] [Server thread/INFO]: [ClearLag] Modules have been loaded!
+[13:28:43] [Server thread/INFO]: [ClearLag] Clearlag is now enabled!
+[13:28:43] [Server thread/INFO]: [SkinsRestorer] Enabling SkinsRestorer v13.7.5
+[13:28:43] [Thread-14/INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.15]...
+[13:28:44] [Server thread/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1mDetected Minecraft [0;33;1mv1_15_R1[0;32;1m, using [0;33;1mUniversalSkinFactory[0;32;1m.[m
+[13:28:44] [Server thread/INFO]: [Notify] Enabling Notify v6.2
+[13:28:45] [Server thread/INFO]: [Notify] Downloaded jar automatically, restart to update. Note: Updates take 30-40 minutes to load
+[13:28:45] [Server thread/WARN]: [Notify] Volume control is not supported on this version of Java.
+[13:28:45] [Server thread/INFO]: [mcMMO] Enabling mcMMO v2.1.126-SNAPSHOT
+[13:28:45] [pool-6-thread-1/ERROR]: null
+com.sun.media.sound.RIFFInvalidDataException: Chunk size too big
+	at com.sun.media.sound.RIFFReader.<init>(RIFFReader.java:82) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.internal_getAudioFileFormat(WaveFloatFileReader.java:65) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioFileFormat(WaveFloatFileReader.java:55) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:117) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:164) ~[?:1.8.0_242]
+	at javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1181) ~[?:1.8.0_242]
+	at optic_fusion1.notify3.core.PlaySound.play(PlaySound.java:79) ~[?:?]
+	at optic_fusion1.notify3.core.PlaySound.lambda$play$2(PlaySound.java:47) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_242]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_242]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[13:28:45] [Thread-14/INFO]: [ClearLag] No updates found!
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_SWORD in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_SHOVEL in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_PICKAXE in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_AXE in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_HOE in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_HELMET in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_CHESTPLATE in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_LEGGINGS in this version of Minecraft, skipping.
+[13:28:45] [Server thread/INFO]: [mcMMO] No support for repair item NETHERITE_BOOTS in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_SWORD in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_SHOVEL in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_PICKAXE in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_AXE in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_HOE in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_HELMET in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_CHESTPLATE in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_LEGGINGS in this version of Minecraft, skipping.
+[13:28:48] [Server thread/INFO]: [mcMMO] No support for salvage item NETHERITE_BOOTS in this version of Minecraft, skipping.
+[13:28:49] [Server thread/INFO]: [mcMMO] enabling Acrobatics Skills
+[13:28:49] [Server thread/INFO]: [mcMMO] registered subskill: Roll
+[13:28:49] [Server thread/INFO]: [mcMMO] 0 entries in mcMMO World Blacklist
+[13:28:49] [Server thread/INFO]: [ServerRestorer] Enabling ServerRestorer v1.0.32
+[13:28:49] [Server thread/INFO]: [Essentials] Enabling Essentials v2.17.2.0
+[13:28:49] [Server thread/INFO]: Attempting to convert old kits in config.yml to new kits.yml
+[13:28:49] [Server thread/INFO]: No kits found to migrate.
+[13:28:49] [Server thread/INFO]: [Essentials] Using 1.8.3+ BlockStateMeta provider as mob spawner provider.
+[13:28:49] [Server thread/INFO]: [Essentials] Using 1.13+ flat spawn egg provider as spawn egg provider.
+[13:28:49] [Server thread/INFO]: [Essentials] Using 1.9+ BasePotionData provider as potion meta provider.
+[13:28:49] [Server thread/INFO]: Loaded 21018 items from items.json.
+[13:28:49] [Server thread/INFO]: Using locale pt
+[13:28:49] [Server thread/INFO]: [Essentials] ServerListPingEvent: Spigot iterator API
+[13:28:49] [Server thread/INFO]: [Essentials] Starting Metrics. Opt-out using the global bStats config.
+[13:28:49] [Server thread/INFO]: [Essentials] Using config file enhanced permissions.
+[13:28:49] [Server thread/INFO]: [Essentials] Permissions listed in as player-commands will be given to all users.
+[13:28:49] [Server thread/INFO]: [EssentialsSpawn] Enabling EssentialsSpawn v2.17.2.0
+[13:28:49] [Server thread/INFO]: [EssentialsChat] Enabling EssentialsChat v2.17.2.0
+[13:28:49] [Server thread/INFO]: [EditableSign] Enabling EditableSign v7.0.4
+[13:28:49] [Server thread/INFO]: [32m[VKLib] [VKLib:AddOn.loadAddOns()] 0 addon modules found! Loading them up![0m
+[13:28:49] [Server thread/INFO]: [32m[EditableSign] EditableSign version 7.0.4 is Enabled[0m
+[13:28:49] [Server thread/INFO]: [Harbor] Enabling Harbor v1.6.1
+[13:28:49] [Server thread/INFO]: [EssentialsProtect] Enabling EssentialsProtect v2.17.2.0
+[13:28:49] [Server thread/INFO]: [EssentialsProtect] Continuing to enable Protect.
+[13:28:49] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[13:28:50] [Server thread/INFO]: Done (44.328s)! For help, type "help"
+[13:28:50] [Craft Scheduler Thread - 0/INFO]: [LevelledMobs] ?7?8[?7Update Checker?8] ?7You're running the latest version.
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    | SkinsRestorer |[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    +===============+[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;36;1m    Current version: [0;32;1m13.7.5[m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m    This is the latest version![m
+[13:28:51] [Craft Scheduler Thread - 1/INFO]: [0;33;1m[[0;32;22mSkinsRestorer[0;33;1m] [0;32;1m----------------------------------------------[m
+[13:29:15] [User Authenticator #1/INFO]: UUID of player MarandoGamer is 1a1f8f59-e67a-3ae0-a28a-fe40d5c80c27
+[13:29:17] [Server thread/INFO]: MarandoGamer[/191.33.160.50:50064] logged in with entity id 129 at ([world]-581.2143780137418, 71.0, 305.1187792411387)
+[13:29:42] [Server thread/INFO]: [mcMMO] WorldGuard was not detected.
+[13:29:53] [User Authenticator #2/INFO]: UUID of player RafaelWhoa is 2a6f4b19-a97b-373c-9d5c-5738787c14d5
+[13:29:53] [Server thread/INFO]: RafaelWhoa[/177.41.93.210:50992] logged in with entity id 319 at ([world]-543.0800385995014, 100.0, 357.03110455537836)
+[13:30:01] [pool-6-thread-1/ERROR]: null
+com.sun.media.sound.RIFFInvalidDataException: Chunk size too big
+	at com.sun.media.sound.RIFFReader.<init>(RIFFReader.java:82) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.internal_getAudioFileFormat(WaveFloatFileReader.java:65) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioFileFormat(WaveFloatFileReader.java:55) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:117) ~[?:1.8.0_242]
+	at com.sun.media.sound.WaveFloatFileReader.getAudioInputStream(WaveFloatFileReader.java:164) ~[?:1.8.0_242]
+	at javax.sound.sampled.AudioSystem.getAudioInputStream(AudioSystem.java:1181) ~[?:1.8.0_242]
+	at optic_fusion1.notify3.core.PlaySound.play(PlaySound.java:79) ~[?:?]
+	at optic_fusion1.notify3.core.PlaySound.lambda$play$2(PlaySound.java:47) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_242]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_242]
+	at java.lang.Thread.run(Thread.java:748) [?:1.8.0_242]
+[13:30:01] [Async Chat Thread - #0/INFO]: [m<MarandoGamer[m> uia[m
+[13:30:58] [Server thread/INFO]: MarandoGamer issued server command: /warp Vila
