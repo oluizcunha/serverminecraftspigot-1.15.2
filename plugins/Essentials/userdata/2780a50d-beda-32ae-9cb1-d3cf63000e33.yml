@@ -1,20 +1,20 @@
 lastAccountName: CasinhoBR
 timestamps:
-  login: 1585335626880
-  logout: 1585335683065
-  lastteleport: 1585329726799
+  login: 1585347958909
+  logout: 1585349847590
+  lastteleport: 1585349731682
 ipAddress: 168.195.193.50
 logoutlocation:
   world: world
-  x: -678.1599028287137
-  y: 93.0
-  z: 436.3897867417484
-  yaw: -205.36156
-  pitch: 18.949013
+  x: -686.9418171351598
+  y: 98.5
+  z: 425.6858367151641
+  yaw: 211.09717
+  pitch: 17.857279
 lastlocation:
   world: world
-  x: -581.6174306055153
-  y: 71.0
-  z: 254.10881408331127
-  yaw: -358.39587
-  pitch: 16.746353
+  x: -683.8365400962058
+  y: 97.0
+  z: 425.46086490771825
+  yaw: -276.7668
+  pitch: 24.643135

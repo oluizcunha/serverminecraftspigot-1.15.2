@@ -1,0 +1,28 @@
+lastAccountName: mglhnrq
+timestamps:
+  login: 1585352260812
+  logout: 1585352268238
+ipAddress: 177.132.242.236
+lastlocation:
+  world: world_nether
+  x: -85.85830268283247
+  y: 77.0
+  z: 177.31857777160442
+  yaw: -212.99414
+  pitch: 23.84998
+logoutlocation:
+  world: world
+  x: -674.8074009578829
+  y: 95.0
+  z: 416.0751593764761
+  yaw: -116.70007
+  pitch: 52.649998
+homes:
+  home:
+    world: world
+    x: -685.7727314578159
+    y: 92.0
+    z: 450.94488090954616
+    yaw: 11.40132
+    pitch: 0.7499929
+afk: false

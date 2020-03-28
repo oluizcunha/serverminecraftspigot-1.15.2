@@ -1,23 +1,23 @@
 lastAccountName: SuubMatias
 timestamps:
-  login: 1585333087729
-  lastteleport: 1585321893158
-  logout: 1585335513265
+  login: 1585398026264
+  lastteleport: 1585355860138
+  logout: 1585398587925
 ipAddress: 177.13.88.18
 lastlocation:
   world: world
-  x: -551.2401747498972
-  y: 59.0
-  z: 579.2702722273777
-  yaw: -129.87808
-  pitch: -3.5999606
+  x: -1507.699999988079
+  y: 63.0
+  z: 1172.56944611318
+  yaw: 167.6999
+  pitch: 66.90018
 logoutlocation:
   world: world
-  x: -560.940961206097
-  y: 71.0
-  z: 297.76896353494794
-  yaw: -180.59229
-  pitch: 17.099625
+  x: -561.1567037543763
+  y: 91.0
+  z: 242.63257484405005
+  yaw: 261.3744
+  pitch: 40.19947
 afk: false
 homes:
   home:

@@ -1,23 +1,23 @@
 lastAccountName: Izzorab
 timestamps:
-  login: 1585330917113
-  logout: 1585320471598
-  lastteleport: 1585338478532
+  login: 1585403880569
+  logout: 1585371557837
+  lastteleport: 1585417425692
 ipAddress: 201.71.165.4
 logoutlocation:
   world: world
-  x: -725.3736381266705
+  x: -725.3696951884374
   y: 96.0
-  z: 75.10136969245919
-  yaw: 6.199585
-  pitch: 19.799824
+  z: 78.34530885933002
+  yaw: 196.61713
+  pitch: 21.899841
 lastlocation:
   world: world
-  x: -724.5
-  y: 96.0000002
-  z: 77.5
-  yaw: 0.0
-  pitch: 0.0
+  x: 829.8681795572417
+  y: 68.0
+  z: -4329.962883248842
+  yaw: 248.96529
+  pitch: 27.300186
 homes:
   home:
     world: world
@@ -26,3 +26,4 @@ homes:
     z: 79.34356633998871
     yaw: -11.129883
     pitch: 29.850039
+afk: false
