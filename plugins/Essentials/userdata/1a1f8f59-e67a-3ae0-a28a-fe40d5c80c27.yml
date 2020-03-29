@@ -1,25 +1,25 @@
 lastAccountName: MarandoGamer
 timestamps:
-  login: 1585413835428
-  lastteleport: 1585418644830
-  logout: 1585377059224
+  login: 1585473634037
+  lastteleport: 1585475060102
+  logout: 1585475533153
   kits:
     tools: 1585097131041
 ipAddress: 177.41.94.205
 lastlocation:
   world: world
-  x: -539.3332050803575
-  y: 101.0
-  z: 392.84139078561054
-  yaw: 353.99454
-  pitch: 61.049778
+  x: -583.5
+  y: 71.0000002
+  z: 317.5
+  yaw: 0.30000004
+  pitch: -0.90000015
 logoutlocation:
-  world: world_nether
-  x: -85.07251659050948
-  y: 73.0
-  z: 94.44434565971818
-  yaw: 87.45184
-  pitch: -44.399887
+  world: world
+  x: -584.5548217036707
+  y: 71.0
+  z: 309.95970274641473
+  yaw: 254.55487
+  pitch: -2.2499037
 afk: false
 homes:
   home:

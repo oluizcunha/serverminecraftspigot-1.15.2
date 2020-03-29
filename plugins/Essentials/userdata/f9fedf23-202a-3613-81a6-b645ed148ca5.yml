@@ -1,17 +1,17 @@
 lastAccountName: geanksf
 timestamps:
-  login: 1585361110764
-  lastteleport: 1585377466507
-  logout: 1585379488076
+  login: 1585449354633
+  lastteleport: 1585456946091
+  logout: 1585457998506
 ipAddress: 177.220.172.212
 afk: false
 lastlocation:
   world: world
-  x: -534.5
-  y: 66.0
-  z: 566.5
-  yaw: -2.8500006
-  pitch: 12.449993
+  x: -904.4352932547463
+  y: 39.0
+  z: 1567.1754093512275
+  yaw: -184.87462
+  pitch: 41.10008
 homes:
   home:
     world: world
@@ -22,8 +22,8 @@ homes:
     pitch: 35.550125
 logoutlocation:
   world: world
-  x: -1141.9128672323714
+  x: -1141.689601389611
   y: 65.0
-  z: 1339.0740457923755
-  yaw: -324.46826
-  pitch: 34.34999
+  z: 1335.8531423508898
+  yaw: -291.52454
+  pitch: -19.05019

@@ -161,6 +161,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2020-03-28 23:22:07 -0400",
+      "diamond_helmet": "2020-03-28 23:22:07 -0400",
+      "diamond_chestplate": "2020-03-28 23:22:07 -0400",
+      "diamond_boots": "2020-03-28 23:22:07 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-24 01:14:35 -0400"
@@ -396,6 +405,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/yellow_dye_from_sunflower": {
+    "criteria": {
+      "has_double_plant": "2020-03-28 20:16:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2020-03-23 18:59:25 -0400"
@@ -534,15 +549,23 @@
       "minecraft:spider": "2020-03-23 22:19:55 -0400",
       "minecraft:creeper": "2020-03-23 21:15:28 -0400",
       "minecraft:phantom": "2020-03-24 00:51:41 -0400",
+      "minecraft:witch": "2020-03-28 23:09:58 -0400",
       "minecraft:cave_spider": "2020-03-24 01:41:51 -0400",
       "minecraft:zombie": "2020-03-23 20:51:16 -0400",
-      "minecraft:drowned": "2020-03-23 23:35:45 -0400"
+      "minecraft:drowned": "2020-03-23 23:35:45 -0400",
+      "minecraft:zombie_villager": "2020-03-28 22:12:05 -0400"
     },
     "done": false
   },
   "minecraft:recipes/building_blocks/chiseled_quartz_block_from_quartz_block_stonecutting": {
     "criteria": {
       "has_quartz_block": "2020-03-24 01:05:07 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2020-03-28 21:12:08 -0400"
     },
     "done": true
   },
@@ -666,6 +689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2020-03-28 20:47:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-24 01:14:35 -0400"
@@ -681,6 +710,12 @@
   "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
     "criteria": {
       "has_potato": "2020-03-27 18:46:39 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_the_recipe": "2020-03-28 20:46:34 -0400"
     },
     "done": true
   },
@@ -789,6 +824,12 @@
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2020-03-23 22:22:45 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-03-28 20:16:38 -0400"
     },
     "done": true
   },
@@ -1025,6 +1066,7 @@
       "minecraft:forest": "2020-03-23 18:38:27 -0400",
       "minecraft:mountains": "2020-03-23 18:39:22 -0400",
       "minecraft:taiga": "2020-03-23 18:39:13 -0400",
+      "minecraft:taiga_hills": "2020-03-28 20:38:24 -0400",
       "minecraft:dark_forest": "2020-03-23 19:00:15 -0400",
       "minecraft:river": "2020-03-23 18:38:42 -0400",
       "minecraft:wooded_mountains": "2020-03-23 22:08:53 -0400",
@@ -1187,6 +1229,18 @@
   "minecraft:recipes/decorations/lantern": {
     "criteria": {
       "has_iron_ingot": "2020-03-23 18:48:26 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2020-03-28 21:47:20 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond_block": "2020-03-28 20:45:33 -0400"
     },
     "done": true
   },
@@ -1504,10 +1558,15 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2020-03-28 20:46:40 -0400",
+      "sweet_berries": "2020-03-28 20:46:20 -0400",
+      "cooked_beef": "2020-03-28 22:06:17 -0400",
       "baked_potato": "2020-03-24 01:29:51 -0400",
+      "beef": "2020-03-28 20:41:52 -0400",
       "bread": "2020-03-23 20:57:16 -0400",
       "rotten_flesh": "2020-03-23 23:52:56 -0400",
       "salmon": "2020-03-23 22:58:17 -0400",
+      "cooked_chicken": "2020-03-28 21:56:08 -0400",
       "carrot": "2020-03-23 18:54:43 -0400"
     },
     "done": false
@@ -1998,6 +2057,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2020-03-28 20:47:25 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blue_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2020-03-23 23:12:14 -0400"
@@ -2085,6 +2150,12 @@
   "minecraft:recipes/building_blocks/chiseled_stone_bricks_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2020-03-23 23:04:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2020-03-28 21:47:20 -0400"
     },
     "done": true
   },
@@ -2337,6 +2408,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2020-03-23 21:55:56 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2020-03-28 20:47:25 -0400"
     },
     "done": true
   },

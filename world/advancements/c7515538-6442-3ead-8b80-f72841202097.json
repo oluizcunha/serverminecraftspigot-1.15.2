@@ -245,6 +245,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_carpet_from_white_carpet": {
+    "criteria": {
+      "has_black_dye": "2020-03-28 19:34:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_button": {
     "criteria": {
       "has_planks": "2020-03-24 00:38:02 -0400"
@@ -260,6 +266,12 @@
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2020-03-23 21:52:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2020-03-28 19:56:59 -0400"
     },
     "done": true
   },
@@ -365,8 +377,10 @@
       "sweet_berries": "2020-03-24 22:11:08 -0400",
       "cooked_beef": "2020-03-26 23:12:17 -0400",
       "baked_potato": "2020-03-23 21:51:29 -0400",
+      "cooked_cod": "2020-03-28 18:34:14 -0400",
       "bread": "2020-03-25 00:07:08 -0400",
-      "golden_apple": "2020-03-25 00:07:28 -0400"
+      "golden_apple": "2020-03-25 00:07:28 -0400",
+      "cod": "2020-03-28 19:41:24 -0400"
     },
     "done": false
   },
@@ -633,6 +647,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2020-03-23 21:52:37 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2020-03-28 18:38:56 -0400"
     },
     "done": true
   },
@@ -981,6 +1001,12 @@
   "minecraft:recipes/decorations/pink_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-28 03:44:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_black_dye": "2020-03-28 19:34:41 -0400"
     },
     "done": true
   },
@@ -1596,6 +1622,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_black_dye": "2020-03-28 19:34:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:forest": "2020-03-22 22:50:33 -0400",
@@ -1893,6 +1925,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_black_dye": "2020-03-28 19:34:41 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-28 03:44:53 -0400"
@@ -1908,6 +1946,12 @@
   "minecraft:recipes/decorations/light_gray_stained_glass_pane": {
     "criteria": {
       "has_glass": "2020-03-28 03:44:53 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bonemeal": "2020-03-28 19:56:59 -0400"
     },
     "done": true
   },

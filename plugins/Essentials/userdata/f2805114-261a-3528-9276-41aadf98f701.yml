@@ -1,23 +1,23 @@
 lastAccountName: Iziodoro
 timestamps:
-  login: 1585404988392
-  lastteleport: 1585418357320
-  logout: 1585352651587
+  login: 1585444562976
+  lastteleport: 1585446443622
+  logout: 1585446622950
 ipAddress: 187.123.1.13
 lastlocation:
   world: world
-  x: -724.5
-  y: 96.0000002
-  z: 84.5
-  yaw: -55.35
-  pitch: 65.10001
+  x: -1578.7728112747518
+  y: 64.0
+  z: 1404.3120338698006
+  yaw: -181.50069
+  pitch: 33.599983
 logoutlocation:
   world: world
-  x: -729.6920540690562
+  x: -730.0333806260941
   y: 91.0
-  z: 82.25116463612191
-  yaw: 295.62317
-  pitch: 17.999992
+  z: 81.36338381447602
+  yaw: 80.969986
+  pitch: -19.950153
 afk: false
 homes:
   home:

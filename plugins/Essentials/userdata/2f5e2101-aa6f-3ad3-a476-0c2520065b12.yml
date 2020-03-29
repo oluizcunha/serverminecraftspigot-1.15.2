@@ -1,18 +1,18 @@
 lastAccountName: Davigugu55
 timestamps:
-  login: 1585373384712
+  login: 1585458935460
   kits:
     tools: 1585013541594
-  lastteleport: 1585378488544
-  logout: 1585378584825
+  lastteleport: 1585460006482
+  logout: 1585460420915
 ipAddress: 187.123.0.241
 lastlocation:
   world: world
-  x: -534.5
-  y: 66.0
-  z: 566.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -771.5
+  y: 59.0
+  z: 964.5
+  yaw: -356.78058
+  pitch: 16.351185
 homes:
   home:
     world: world
@@ -24,8 +24,8 @@ homes:
 afk: false
 logoutlocation:
   world: world
-  x: -768.3000000119209
-  y: 60.0
-  z: 970.6999999880791
-  yaw: 162.61823
-  pitch: 25.404047
+  x: -759.119309218348
+  y: 64.0
+  z: 955.9024692120943
+  yaw: 77.58364
+  pitch: 21.170336

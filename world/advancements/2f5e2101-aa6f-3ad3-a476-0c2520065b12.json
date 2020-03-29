@@ -512,6 +512,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:blaze": "2020-03-26 13:01:46 -0400",
+      "minecraft:pillager": "2020-03-29 00:59:48 -0400",
       "minecraft:skeleton": "2020-03-23 21:46:53 -0400",
       "minecraft:zombie_pigman": "2020-03-26 14:05:32 -0400",
       "minecraft:ghast": "2020-03-26 12:54:47 -0400",
@@ -629,6 +630,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2020-03-24 17:32:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2020-03-29 00:48:39 -0400"
     },
     "done": true
   },
@@ -755,6 +762,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2020-03-27 00:23:49 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2020-03-29 01:01:58 -0400"
     },
     "done": true
   },
@@ -2274,6 +2287,12 @@
   "minecraft:recipes/redstone/daylight_detector": {
     "criteria": {
       "has_quartz": "2020-03-26 13:46:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/silk_touch_nest": {
+    "criteria": {
+      "silk_touch_nest": "2020-03-29 01:23:13 -0400"
     },
     "done": true
   },

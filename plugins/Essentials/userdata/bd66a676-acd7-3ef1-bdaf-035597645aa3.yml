@@ -1,20 +1,20 @@
 lastAccountName: otaviobrandao10
 timestamps:
-  login: 1585354165825
-  lastteleport: 1585273741659
-  logout: 1585354212894
-ipAddress: 177.64.246.221
+  login: 1585461608004
+  lastteleport: 1585460651314
+  logout: 1585461805566
+ipAddress: 177.64.232.7
 lastlocation:
   world: world
-  x: -534.5
-  y: 66.0
-  z: 566.5
-  yaw: 0.0
-  pitch: 0.0
+  x: -583.9424135046083
+  y: 71.0
+  z: 300.27726459451907
+  yaw: 347.06885
+  pitch: 13.799844
 logoutlocation:
   world: world
-  x: -578.0054448197528
-  y: 71.0
-  z: 275.3144645038743
-  yaw: 24.209618
-  pitch: 0.14961512
+  x: -1503.521873153132
+  y: 121.0
+  z: 1148.0673815393147
+  yaw: -161.67883
+  pitch: 15.599359

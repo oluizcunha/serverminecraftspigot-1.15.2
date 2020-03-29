@@ -1,16 +1,16 @@
 lastAccountName: miguel
 timestamps:
-  login: 1585401560129
+  login: 1585442815109
   lastteleport: 1585413604089
-  logout: 1585401525327
-ipAddress: 177.132.242.236
+  logout: 1585444356915
+ipAddress: 177.17.204.167
 lastlocation:
   world: world
-  x: -685.8803935195851
-  y: 81.0
-  z: 355.7521156253232
-  yaw: -69.58374
-  pitch: 90.0
+  x: -695.7381980979302
+  y: 72.0
+  z: 346.79142331446405
+  yaw: -359.21457
+  pitch: 73.19995
 homes:
   home:
     world: world
@@ -21,9 +21,9 @@ homes:
     pitch: 29.85
 logoutlocation:
   world: world
-  x: -576.7467830656409
-  y: 65.5625
-  z: 429.30000001192093
-  yaw: -37.79956
-  pitch: -13.04999
+  x: -527.441203953843
+  y: 58.0
+  z: 414.3806462779971
+  yaw: -0.896378
+  pitch: 11.8499775
 afk: false

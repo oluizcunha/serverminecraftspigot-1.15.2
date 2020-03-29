@@ -1,25 +1,25 @@
 lastAccountName: Beretta711
 timestamps:
-  login: 1585395758147
-  lastteleport: 1585395764295
+  login: 1585468224813
+  lastteleport: 1585474956722
   kits:
     tools: 1585018771137
-  logout: 1585414867743
+  logout: 1585476359500
 ipAddress: 187.123.1.159
 lastlocation:
-  world: world_nether
-  x: -88.46371733366877
-  y: 122.0
-  z: 93.69297313728437
-  yaw: -77.09906
-  pitch: 14.399609
+  world: world
+  x: -584.5
+  y: 71.0000002
+  z: 315.5
+  yaw: 0.0
+  pitch: 0.0
 logoutlocation:
   world: world
-  x: -517.9386663585888
-  y: 137.5
-  z: -802.7375894752988
-  yaw: 132.01123
-  pitch: 2.0995646
+  x: -569.6999999880791
+  y: 71.0
+  z: 330.52655380960863
+  yaw: -89.68689
+  pitch: 0.90000623
 homes:
   home:
     world: world
